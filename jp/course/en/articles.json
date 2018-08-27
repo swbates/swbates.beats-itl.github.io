@@ -1,0 +1,93 @@
+[
+    {
+        "_id":"a-05",
+        "_parentId":"co-05",
+        "_type":"article",
+        "_classes":"",
+        "title":"Page 1",
+        "displayTitle":"",
+        "body":""
+    },
+    {
+        "_id":"a-10",
+        "_parentId":"co-10",
+        "_type":"article",
+        "_classes":"",
+        "title":"Page 1",
+        "displayTitle":"",
+        "body":""
+    },
+    {
+        "_id":"a-15",
+        "_parentId":"co-15",
+        "_type":"article",
+        "_classes":"",
+        "title":"Page 1",
+        "displayTitle":"",
+        "body":""
+    },
+    {
+        "_id":"a-20",
+        "_parentId":"co-20",
+        "_type":"article",
+        "_classes":"",
+        "title":"Page 1",
+        "displayTitle":"",
+        "body":""
+    },
+    {
+        "_id":"a-25",
+        "_parentId":"co-25",
+        "_type":"article",
+        "_classes":"",
+        "title":"Assessment",
+        "displayTitle":"", 
+        "body":"",
+        "_trickle": {
+            "_isEnabled":true,
+            "button": "次の質問へ進む"
+        },
+        "_retake" :{
+            "_isEnabled":true,
+             "_passMessage" : {
+                 "title" : "おめでとう！",
+                 "message": "合格です！おめでとうございます！"
+             },
+             "_failMessage" : {
+                 "title" : "あなたが正常にこのクイズに合格しませんでした。",
+                 "message": "あなたのスコアは [SCORE] 中 [MAXSCORE] 点です。残念ながら不合格です。 あなたが正常にこのクイズに合格しませんでした。<div class=\"assessment-retake-div\"><a href=\"#\" class=\"assessment-retake\">ここ</a> をクリックして、テストの回答を見直してから再度テストを受けてください。</div><a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+             }
+            
+        },
+        "_assessment": {
+            "_isEnabled": true,
+            "_isPercentageBased" : true,
+            "_scoreToPass" : 80,
+            "_showQuestionFeedback":true,
+            "_allowRetake" : true,
+            "_completionMessage" : {
+                "title" : "評価テストを終了しました",
+                "message": "あなたのスコアは [SCORE] 中 [MAXSCORE] 点です。 [FEEDBACK]"
+            },
+            "_bands": [
+                {
+                    "_score": 0,
+                    "feedback": "あなたが正常にこのクイズに合格しませんでした<div class=\"assessment-retake-div\"><a href=\"#\" class=\"assessment-retake\">ここ</a> をクリックして、テストの回答を見直してから再度テストを受けてください。</div><a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+                },
+                {
+                    "_score": 60,
+                    "feedback": "あなたが正常にこのクイズに合格しませんでした<div class=\"assessment-retake-div\"><a href=\"#\" class=\"assessment-retake\">ここ</a> をクリックして、テストの回答を見直してから再度テストを受けてください。</div><a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+                },
+                {
+                    "_score": 80,
+                    "feedback": "合格です！おめでとうございます！<a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+                },
+                {
+                    "_score": 90,
+                    "feedback": "合格です！おめでとうございます！<a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+                }
+            ]
+        }
+    }
+
+]

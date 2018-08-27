@@ -1,0 +1,93 @@
+[
+    {
+        "_id":"a-05",
+        "_parentId":"co-05",
+        "_type":"article",
+        "_classes":"",
+        "title":"Page 1",
+        "displayTitle":"",
+        "body":""
+    },
+    {
+        "_id":"a-10",
+        "_parentId":"co-10",
+        "_type":"article",
+        "_classes":"",
+        "title":"Page 1",
+        "displayTitle":"",
+        "body":""
+    },
+    {
+        "_id":"a-15",
+        "_parentId":"co-15",
+        "_type":"article",
+        "_classes":"",
+        "title":"Page 1",
+        "displayTitle":"",
+        "body":""
+    },
+    {
+        "_id":"a-20",
+        "_parentId":"co-20",
+        "_type":"article",
+        "_classes":"",
+        "title":"Page 1",
+        "displayTitle":"",
+        "body":""
+    },
+    {
+        "_id":"a-25",
+        "_parentId":"co-25",
+        "_type":"article",
+        "_classes":"",
+        "title":"Assessment",
+        "displayTitle":"", 
+        "body":"",
+        "_trickle": {
+            "_isEnabled":true,
+            "button": "Continue para a próxima pergunta"
+        },
+        "_retake" :{
+            "_isEnabled":true,
+             "_passMessage" : {
+                 "title" : "Congratulations!",
+                 "message": "Você foi aprovado com sucesso neste teste! Bom trabalho!"
+             },
+             "_failMessage" : {
+                 "title" : "Você não foi aprovado no teste.",
+                 "message": "Você acertou [SCORE] de [MAXSCORE]. Você não foi aprovado no teste.<div class=\"assessment-retake-div\">Clique <a href=\"#\" class=\"assessment-retake\">aqui</a> para revisar o material e refazer o teste.</div><a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+             }
+            
+        },
+        "_assessment": {
+            "_isEnabled": true,
+            "_isPercentageBased" : true,
+            "_scoreToPass" : 80,
+            "_showQuestionFeedback":true,
+            "_allowRetake" : true,
+            "_completionMessage" : {
+                "title" : "VOCÊ TERMINOU A AVALIAÇÃO",
+                "message": "Você acertou [SCORE] de [MAXSCORE].  [FEEDBACK]"
+            },
+            "_bands": [
+                {
+                    "_score": 0,
+                    "feedback": "Você não foi aprovado no teste.<div class=\"assessment-retake-div\"> Clique <a href=\"#\" class=\"assessment-retake\">aqui</a> para revisar o material e refazer o teste.</div><a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+                },
+                {
+                    "_score": 60,
+                    "feedback": "Você não foi aprovado no teste.<div class=\"assessment-retake-div\"> Clique <a href=\"#\" class=\"assessment-retake\">aqui</a> para revisar o material e refazer o teste.</div><a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+                },
+                {
+                    "_score": 80,
+                    "feedback": "Você foi aprovado com sucesso neste teste! Bom trabalho!<a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+                },
+                {
+                    "_score": 90,
+                    "feedback": "Você foi aprovado com sucesso neste teste! Bom trabalho!<a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+                }
+            ]
+        }
+    }
+
+]

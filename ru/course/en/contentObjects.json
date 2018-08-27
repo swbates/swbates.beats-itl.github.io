@@ -1,0 +1,77 @@
+[
+    {
+        "_id":"co-05",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"Introducing the Beats Pill+",
+        "displayTitle":"Представляем Beats Pill+.",
+        "body":"In this chapter you will be introduced to the latest wireless speaker from Beats by Dr. Dre, the Beats Pill+.",
+        "_graphic": {
+            "alt": "Page 1",
+            "src": "course/en/images/menu_ch1.jpg"
+        },
+        "linkText":"View",
+        "duration":""
+    },
+    {
+        "_id":"co-10",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"It’s all in the Details",
+        "displayTitle":"Это все можно найти в разделе «Сведения»",
+        "body":"In this chapter you will learn what makes the Beats Pill+ stand out from the competition.",
+        "_graphic": {
+            "alt": "Page 2",
+            "src": "course/en/images/menu_ch2.jpg"
+        },
+        "linkText":"View",
+        "duration":""
+    },
+    {
+        "_id":"co-15",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"In a Class all its own",
+        "displayTitle":"В СВОЕМ СОБСТВЕННОМ КЛАССЕ",
+        "body":"In this chapter you will learn all about the subtle, yet important details of the Beats Pill+, and why your customers will love it.",
+        "_graphic": {
+            "alt": "Page 3",
+            "src": "course/en/images/menu_ch3.jpg"
+        },
+        "linkText":"View",
+        "duration":""
+    },
+    {
+        "_id":"co-20",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"Delivering the Beats Experience ",
+        "displayTitle":"ОБЕСПЕЧЕНИЕ НАИЛУЧШЕГО КАЧЕСТВА ЗВУЧАНИЯ",
+        "body":"In this chapter you will learn how to sell the Beats Pill+ to your customers.",
+        "_graphic": {
+            "alt": "Page 4",
+            "src": "course/en/images/menu_ch4.jpg"
+        },
+        "linkText":"View",
+        "duration":""
+    },
+    {
+        "_id":"co-25",
+        "_parentId":"course",
+        "_type":"page",
+        "_classes":"",
+        "title":"Assessment",
+        "displayTitle":"ПРОВЕРКА ЗНАНИЙ",
+        "body":"Take the quiz on the Beats Pill+.",
+        "_graphic": {
+            "alt": "Assessment",
+            "src": "course/en/images/menu_quiz.jpg"
+        },
+        "linkText":"View",
+        "duration":"2 mins"
+    }
+]

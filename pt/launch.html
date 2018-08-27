@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Launching course...</title>
+        <script>
+            function launchCourse() {
+                window.open("index.html", "adaptWin", "width=950,menubar=no,location=no,directories=no,resizable=yes,scrollbars=yes");
+            }
+        </script>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                text-align:center;
+            }
+        </style>
+    </head>
+    <body onload="launchCourse()">
+        <h2>The course should now open in a new window.</h2>
+        <p>If this does not occur please check your pop-up blocker settings and <a href="#" onclick="launchCourse()">click here</a> to try again.</p>
+    </body>
+</html>

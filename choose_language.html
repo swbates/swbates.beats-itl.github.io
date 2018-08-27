@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=1" media="all"/>
+        <title>Launching course...</title>
+        
+        <style>
+            body { font-family: Arial, sans-serif; /*text-align:center;*/ background-color: #151515; }
+            @font-face {
+              font-family: 'AvantGarde-Medium';
+              src: url('2assets/673EB_0_0.eot');
+              src: url('assets/2673EB_0_0.eot?#iefix') format('embedded-opentype'), 
+              url('assets/2673EB_0_0.woff') format('woff'), 
+              url('assets/2673EB_0_0.svg') format('svg'), 
+              url('assets/2673EB_0_0.ttf') format('truetype');
+              font-weight: normal; font-style: normal; zoom:1;
+            }
+
+            img { margin-top: 50px; max-width: 100%; }
+            h2 { font-family: 'AvantGarde-Medium', Arial, sans-serif; color: #fff; font-size: 1.25em; margin-bottom: 48px; }
+            ul { width: 95%; list-style-type: none; padding-left:0;}
+            ul li { margin: 20px 0;}
+            ul li a { text-align: center; text-decoration: none; color: #e23446; font-size: 1.125em; }
+            #language-container { width: 650px; margin: 0 auto; text-align: center; }
+
+           
+            @media all and ( min-width: 520px; ) {
+                ul { padding-left: 0; }
+            }
+
+
+            @media all and (max-width:960px) {
+                ul { float: none; width: 92%;  }
+            }
+
+
+
+            @media all and (max-width:480px) {
+                #language-container { width: 80%; margin: 10px; }
+                ul li a { font-size: .9em; }
+                ul { padding-left:0; width: 100%;}
+            }
+        </style>
+        <script>
+            function launchCourse(url) {
+                var path = url + '/main.html';
+                console.log(path);
+                window.open(path , "adaptWin", "width=950,menubar=no,location=no,directories=no,resizable=yes,scrollbars=yes");
+
+            }
+        </script>
+    </head>
+    <body>
+        <div id="language-container">
+            <img src="assets/beats_Pill_logo.jpg" />
+    	   <h2>Select Your Language</h2>
+
+        
+
+            <ul>
+                <li><a href="#" onClick="launchCourse('en');">English</a></li>
+                <li><a href="#" onClick="launchCourse('tw');">Chinese (Trad) / 繁體中文</a></li>
+                <li><a href="#" onClick="launchCourse('de');">German / Deutsch</a></li>
+                <li><a href="#" onClick="launchCourse('ko');">Korean / 한국어</a></li>
+                 <li><a href="#" onClick="launchCourse('es');">Spanish / Español</a></li> 
+                <li><a href="#" onClick="launchCourse('ar');">Arabic / العربية</a></li>
+                <li><a href="#" onClick="launchCourse('cz');">Czech / Čeština</a> </li>
+                <li><a href="#" onClick="launchCourse('it');">Italian / Italiano</a></li>
+                <li><a href="#" onClick="launchCourse('pt');">Portuguese / Português</a></li>
+                <li><a href="#" onClick="launchCourse('zh-hans');">Chinese (Simp) / 簡化字</a></li>
+                <li><a href="#" onClick="launchCourse('fr');">French / Français</a></li>
+                <li><a href="#" onClick="launchCourse('jp');">Japanese / 日本</a></li>
+                <li><a href="#" onClick="launchCourse('ru');">Russian / русский</a></li>
+            </ul>
+
+        </div>       
+    </body>
+</html>

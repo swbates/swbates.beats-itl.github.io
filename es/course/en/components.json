@@ -1,0 +1,919 @@
+[
+    {
+        "_id":"c-05",
+        "_parentId":"b-05",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Introducing the Beats Pill+",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch1_1.jpg",
+            "medium": "course/en/images/ch1_1.jpg",
+            "small": "course/en/images/ch1_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-10",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"Beats Pill+ es la última innovación en altavoces inalámbricos de Beats by Dr. Dre. El Beats Pill+ ofrece muchas ventajas, las que incluyen <strong>diseño, portabilidad </strong>y <strong>durabilidad </strong>junto con <strong>calidad de sonido </strong>y <strong>tecnología</strong> que va más allá de los altavoces inalámbricos tradicionales.",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-15",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>En este módulo descubrirás:</strong><ul><br><li>Qué hace que el Beats Pill+ tenga un desempeño destacado<li>Qué hace que este altavoz sea la mejor solución para tus clientes<li>Quién es el cliente ideal<li>Cómo recomendarlo</ul><br>Así que comencemos y veamos por qué todos están hablando del nuevo Beats Pill+.",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-20",
+        "_parentId":"b-15",
+        "_type":"component",
+        "_classes": "",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Designed Around You",
+        "displayTitle": "Diseñado para ti",
+        "body": "",
+        "instruction":"El Beats Pill+ cuenta con gran diseño, sonido y tecnología.",
+        "_items": [
+            {
+                "title": "<strong>Diseño</strong>",
+                "body": "Beats Pill+ tiene los <strong>bordes redondeados</strong>, lo que hace que sea <strong>fácil y seguro de empacar o llevar, </strong>lo que significa que <strong>tu música <i>irá a todos lados</i> contigo.</strong><br><br>El diseño portátil de Pill+ está recubierto con <strong>materiales duraderos </strong>para promover una verdadera <strong>experiencia “fácil de llevar” para sus clientes.</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s1_1.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Diseño"
+            },
+            {
+                "title": "<strong>Sonido</strong>",
+                "body": "Cuando se trata de sonido no hay nada mejor que Beats Pill+. Viene con <strong>woofers dobles montados en el centro para graves de calidad y tweeters dobles en cada extremo para agudos fascinantes. </strong>La posición de los tweeters en el lado exterior es intencional, lo que brinda una mejor escucha “fuera del eje”, esto significa que no es necesario colocarse directamente frente al altavoz para disfrutar de un sonido espectacular.<br><br>No te dejes engañar por su tamaño pequeño; el Beats Pill+ <strong>produce un sonido impresionante y envolvente.</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s1_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Sonido"
+            },
+            {
+                "title": "<strong>Tecnología</strong>",
+                "body": "El Beats Pill+ viene con <strong>Bluetooth Clase 1 líder en la industria, </strong>lo que significa que el Beats Pill+ puede <strong>tener una conexión y reproducción de gran alcance, más que otros altavoces inalámbricos del mercado.</strong><br><br>Además de su Bluetooth mejorado, el Beats Pill+ también incluye <strong>Active Crossover, el cualenvía las frecuencias musicales a los altavoces que mejor puedan manejarlas, produciendo así un sonido de mejor calidad</strong>.</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s1_3.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Tecnología"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-25",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-10\" id=\"next-button\">Siguiente</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-30",
+        "_parentId":"b-25",
+        "_classes": "",
+        "_type":"component",
+        "_component": "hotgraphic",
+        "_layout": "full",    
+        "title": "It’s all in the Details",
+        "displayTitle": "",
+        "body": "",
+        "instruction":"Es fácil ver por qué el Beats Pill+ tiene un desempeño destacado. Estos son algunos de los muchos detalles que lo diferencian de la competencia.",
+        "_graphic": {
+            "src": "course/en/images/hg1_main.jpg",
+            "alt": "",
+            "title": ""
+        },
+        "_items": [
+            {
+                "title": "<strong>Batería recargable de 12 horas</strong>",
+                "body": "Con potencia para todo un día, el Beats Pill+ se carga en apenas 3 horas y tiene una batería recargable de 12 horas y un indicador de carga para controlar cuánta batería queda.",
+                "_graphic": {
+                    "src": "course/en/images/hg1_1.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+            "strapline": "Batería recargable de 12 horas",
+            "_top": 49,
+            "_left": 26
+            },
+            {
+                "title": "<strong>Salida de carga</strong>",
+                "body": "Es fácil mantener el ritmo ahora que puedes cargar tu teléfono o dispositivo de música externo con la potencia extra del Beats Pill+, el cual puede equiparse con una conexión de Apple Lightning. Tus clientes pueden fácilmente cargar cualquier dispositivo móvil USB.",
+                "_graphic": {
+                    "src": "course/en/images/hg1_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+            "strapline": "Salida de carga",
+            "_top": 43,
+            "_left": 90
+            },
+            {
+                "title": "<strong>Active Crossover</strong>",
+                "body": "Los crossovers activos de audio envían las frecuencias correctas a los altavoces que mejor las puedan manejar. Esto significa que las frecuencias musicales debajo de los 2 kHz se envían a los woofers, mientras que las notas por encima de los 2 kHz se envían a los tweeters para agudos.",
+                "_graphic": {
+                    "src": "course/en/images/hg1_3.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+            "strapline": "Active Crossover",
+            "_top": 66,
+            "_left": 48
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-35",
+        "_parentId":"b-30",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "Detente y piensa",
+        "displayTitle": "Detente y piensa",
+        "body": "Beats Pill+ viene con Active Crossover. ¿Cómo ayuda esta característica a brindar una experiencia de alta fidelidad para tus clientes?",
+        "instruction":"",
+        "_items": [
+            {
+                "text": "A. Envía frecuencias musicales a los altavoces que mejor las puedan manejar",
+                "_shouldBeSelected":true
+            },
+            {
+                "text": "B. No reproduce frecuencias fuera del alcance del altavoz, lo que evita la distorsión",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "C. Sincroniza múltiples altavoces Beats Pill+ para un sonido en estéreo",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D. Mantiene tus dispositivos cargados mediante el cable Apple Lightning",
+                "_shouldBeSelected":false
+            }
+        ],
+        "_feedback":{
+            "correct": "¡Así es! Piensa en Active Crossover como un policía de tránsito para el sonido. Envía las frecuencias a los altavoces que mejor las puedan manejar, lo que le da a Beats Pill+ un sonido refinado de alta fidelidad.",
+        "_incorrect": {
+            "notFinal": "Lo siento, pero la respuesta correcta era “Envía frecuencias musicales a los altavoces que mejor las puedan manejar”.",
+            "final": "Lo siento, pero la respuesta correcta era “Envía frecuencias musicales a los altavoces que mejor las puedan manejar”."
+        },
+        "_partlyCorrect": {
+            "notFinal": "Lo siento, pero la respuesta correcta era “Envía frecuencias musicales a los altavoces que mejor las puedan manejar”.",
+            "final": "Lo siento, pero la respuesta correcta era “Envía frecuencias musicales a los altavoces que mejor las puedan manejar”."
+        }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-40",
+        "_parentId":"b-35",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"There’s an App for that",
+        "displayTitle":"<br>Hay una aplicación para eso",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch2_1.jpg",
+            "medium": "course/en/images/ch2_1.jpg",
+            "small": "course/en/images/ch2_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-45",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"La aplicación de Beats Pill+ tiene muchas ventajas. Se les indica automáticamente a tus clientes que descarguen la aplicación cuando se conectan mediante Bluetooth. La aplicación de Beats Pill+ activa características que te permiten compartir tu lista de reproducción en diversos medios sociales, actualizar fácilmente el firmware y cambiarle el nombre a Pill+ para identificarlo y sincronizarlo mejor.<br><br><strong>Lista de reproducción al estilo DJ: </strong>Sal con un amigo y controla la música desde dos fuentes de Bluetooth para una experiencia más social.",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-50",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>Amplifica tus sonidos: </strong>La conexión y el streaming de audio a través de 2 altavoces Beats Pill+ crean un sonido más completo y dinámico.<br><br><strong>Pon los altavoces en estéreo: </strong>Sincroniza fácilmente dos altavoces Beats Pill+ para que uno reproduzca el canal izquierdo y el otro reproduzca el canal derecho, lo que les brinda a tus clientes una mayor frecuencia del sonido en estéreo para una experiencia más envolvente.",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-55",
+        "_parentId":"b-45",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-05\" id=\"prev-button\">Atrás</a><a href=\"#/id/co-15\" id=\"next-button\">Siguiente</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+{
+        "_id":"c-60",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"In a Class all its Own",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch3_1.jpg",
+            "medium": "course/en/images/ch3_1.jpg",
+            "small": "course/en/images/ch3_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-65",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>El Bluetooth de Clase 1 </strong>se utiliza principalmente en usos industriales y tiene un <strong>alcance extendido </strong>mucho más amplio que otros dispositivos con Bluetooth (que están limitados a, aproximadamente, 33 pies).<br><br><strong>Incentiva a tus clientes a que prueben el alcance </strong>de Bluetooth en Beats Pill+; eso les dará una idea del alcance ampliamente mejorado.",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-70",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"El Bluetooth de Beats Pill+ es fenomenal, pero esa característica no solo es útil para la música. Beats Pill+ también tiene una doble función como <strong>auricular del teléfono, </strong>lo que ofrece <strong>un rendimiento de voz mejorado.</strong><br><br>Esta característica de auricular para teléfono significa que tus clientes <strong>pueden realizar y recibir llamadas con una claridad mejorada.</strong>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-75",
+        "_parentId":"b-60",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Leading the Class",
+        "displayTitle":"Líder en su clase",
+        "body":"Esta tabla muestra una fácil comparación entre Beats Pill y Beats Pill+.",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch3_2.jpg",
+            "medium": "course/en/images/ch3_2.jpg",
+            "small": "course/en/images/ch3_2.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-55",
+        "_parentId":"b-65",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-10\" id=\"prev-button\">Atrás</a><a href=\"#/id/co-20\" id=\"next-button\">Siguiente</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-60",
+        "_parentId":"b-70",
+        "_type":"component",
+        "_component":"accordion",
+        "_classes":"",
+        "_layout":"full",
+        "title": "Delivering the Beats Experience ",
+        "displayTitle": "",
+        "body": "Es importante determinar las necesidades del cliente para determinar su solución de producto ideal y ofrecerle una experiencia Beats completa.",
+        "instruction":"",
+        "_items": [
+            {
+                "alt": "",
+                "title": "Descubre sus necesidades",
+                "body": "Descubrir las necesidades del cliente es el primer paso para clasificar al cliente. Es importante <strong>no hacer presunciones, hacer preguntas abiertas </strong>y  <strong>parafrasear para mayor claridad.</strong>"
+            },
+            {
+                "alt": "",
+                "title": "Definir la solución de Beats",
+                "body": "El segundo paso en la clasificación del cliente es definir la solución de Beats. Para poder hacer esto, deberás <strong>asociar las necesidades del cliente con el producto adecuado </strong>y <strong>brindar información sobre las ventajas de Beats al comparase con la competencia.</strong>"
+            },
+            {
+                "alt": "",
+                "title": "Demuestra la experiencia de Beats",
+                "body": "El tercer y último paso para clasificar al cliente es demostrar la experiencia de Beats. <strong>Deja que el cliente experimente Beats por sí mismo </strong>reproduciendo <strong>una canción que coincida con su música </strong>y <strong>confirma que el cliente está escuchando las ventajas de Beats.</strong>"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-65",
+        "_parentId":"b-75",
+        "_type":"component",
+        "_classes": "",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Who’s it for?",
+        "displayTitle": "¿Para quién es?",
+        "body": "",
+        "instruction":"Es importante poder vender Beats Pill+ a tus clientes. Utiliza esta página para saber quiénes son algunos de esos clientes y por qué adorarán el Pill+.",
+        "_items": [
+            {
+                "title": "<strong>John</strong>",
+                "body": "<strong>Cliente: </strong>“Recién estoy empezando la universidad y estoy buscando un altavoz inalámbrico para mi habitación. ¿Qué me recomiendas?”<br><br><strong>Representante: </strong>“Deberías considerar el Beats Pill+. <strong>Es ligero y portátil pero, aun así, ofrece un sonido envolvente”. </strong>",
+                "_graphic": {
+                    "src": "course/en/images/s2_1.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "John"
+            },
+            {
+                "title": "<strong>Peter</strong>",
+                "body": "<strong>Cliente: </strong>“Viajo mucho por trabajo y mi altavoz actual siempre se queda sin batería. ¿Tienes algo que tenga una batería de mayor duración?”<br><br><strong>Representante: </strong>“Dale un vistazo al Beats Pill+. Viene con una <strong>batería recargable de 12 horas </strong>e incluso tiene una ‘salida de carga’ para que también puedas cargar tus dispositivos móviles USB”.",
+                "_graphic": {
+                    "src": "course/en/images/s2_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Peter"
+            },
+            {
+                "title": "<strong>Aaron</strong>",
+                "body": "<strong>Cliente: </strong>“Me gusta organizar fiestas en mi patio trasero. ¿Cómo puedo conseguir el mejor sonido allá afuera?”<br><br><strong>Representante: </strong>“El Pill+ sería perfecto para tus fiestas. Tendrás la posibilidad de poder sincronizar más de un altavoz a la vez, lo que significa que tu fiesta tendrá mucho más sonido”. ",
+                "_graphic": {
+                    "src": "course/en/images/s2_3.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Technology"
+            },
+            {
+                "title": "<strong>Ashley</strong>",
+                "body": "<strong>Cliente: </strong>“Tengo un altavoz inalámbrico pequeño y me decepciona constantemente su calidad de sonido. ¿Tienes algo pequeño pero que de verdad suene bien?”<br><br><strong>Representante: </strong>“Te encantará el Beats Pill+. Aunque es pequeño en tamaño, viene con <strong>‘Active Crossover’</strong>, lo que significa que las frecuencias bajas se enviarán a los woofers, mientras que las frecuencias altas irán a los tweeters para agudos, lo que le brinda un sonido refinado de alta fidelidad”.",
+                "_graphic": {
+                    "src": "course/en/images/s2_4.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Ashley"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-70",
+        "_parentId":"b-80",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Wrapping It Up",
+        "displayTitle":"Para terminar",
+        "body":"",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-75",
+        "_parentId":"b-85",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch4_1.jpg",
+            "medium": "course/en/images/ch4_1.jpg",
+            "small": "course/en/images/ch4_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-80",
+        "_parentId":"b-85",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"El Beats Pill+ tiene tres claras ventajas sobre otros altavoces inalámbricos; <strong>diseño, sonido </strong>y <strong>tecnología.</strong><br><br>Cuando recomiendes Beats Pill+, recuerda que todo comienza con la identificación de la solución de Beats adecuada para las necesidades de tus clientes; <strong>descubre sus necesidades, define la solución de Beats </strong>y <strong>demuestra la experiencia Beats.</strong><br><br><strong>En este módulo has aprendido:</strong><br><br><ul><li>Qué hace que Beats Pill+ sea un altavoz inalámbrico tan potente<li>Qué hace que este altavoz sea la mejor solución para tus clientes<li>Quién es el cliente ideal<li>Cómo recomendarlo</ul><br>Ahora que tienes la información sobre Beats Pill+, es tu decisión <strong>salir y recomendárselo a tus clientes.</strong>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-85",
+        "_parentId":"b-90",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-15\" id=\"prev-button\">Atrás</a><a href=\"#/id/co-25\" id=\"next-button\">Siguiente</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },    
+    
+    {
+        "_id":"c-140",
+        "_parentId":"b-95",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "Pregunta 1",
+        "displayTitle": "Pregunta 1",
+        "body": "",
+        "instruction":"El Beats Pill+ viene con una “salida de carga” que le permite a tus clientes cargar cualquier dispositivo móvil USB; sin embargo, el Pill+ se carga mediante esta conexión:",
+            "_items": [
+                {
+                    "text": "A: Micro USB",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "B: Apple Lightning",
+                    "_shouldBeSelected":true
+                },
+                {
+                    "text": "C: USB 3.0",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "D: Cable de 30 pines de Apple",
+                    "_shouldBeSelected":false
+                }
+            ],
+        "_feedback":{
+            "correct": "¡Ya lo tienes! El Beats Pill+ tiene una conexión Apple Lightning.",
+            "_incorrect": {
+                "notFinal": "Lo siento, pero la respuesta correcta era “Apple Lightning”.",
+                "final": "Lo siento, pero la respuesta correcta era “Apple Lightning”."
+            },
+            "_partlyCorrect": {
+                "notFinal": "Lo siento, pero la respuesta correcta era “Apple Lightning”.",
+                "final": "Lo siento, pero la respuesta correcta era “Apple Lightning”."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-145",
+        "_parentId":"b-100",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "Pregunta 2",
+        "displayTitle": "Pregunta 2",
+        "body": "",
+        "instruction":"¿Qué duración tiene la batería del Beats Pill+?",
+        "_items": [
+            {
+                    "text": "A: 12 horas",
+                    "_shouldBeSelected":true
+                },
+                {
+                    "text": "B: 6 horas",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "C: 8 horas",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "D: 10 horas",
+                    "_shouldBeSelected":false
+                }
+        ],
+        "_feedback":{
+            "correct": "¡Así es! Beats Pill+ viene con una batería recargable de 12 horas.",
+            "_incorrect": {
+                "notFinal": "Lo siento, pero la respuesta correcta es “12 horas”.",
+                "final": "Lo siento, pero la respuesta correcta es “12 horas”."
+            },
+            "_partlyCorrect": {
+                "notFinal": "Lo siento, pero la respuesta correcta es “12 horas”.",
+                "final": "Lo siento, pero la respuesta correcta es “12 horas”."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-150",
+        "_parentId":"b-105",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "Pregunta 3",
+        "displayTitle": "Pregunta 3",
+        "body": "",
+        "instruction":"Beats Pill+ viene con una batería recargable de larga duración. ¿Cuánto tarda en cargarse por completo?",
+            "_items": [
+                {
+                    "text": "A: 3 horas",
+                    "_shouldBeSelected":true
+                },
+                {
+                    "text": "B: 1 horas",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "C: 6 horas",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "D: 12 horas",
+                    "_shouldBeSelected":false
+                }
+            ],
+            "_feedback":{
+                "correct": "¡Así es! Beats Pill+ se carga en solo 3 horas, pero durará todo el día.",
+                "_incorrect": {
+                    "notFinal": "Lo siento, pero la respuesta correcta es “3 horas”.",
+                    "final": "Lo siento, pero la respuesta correcta es “3 horas”."
+                },
+                "_partlyCorrect": {
+                    "notFinal": "Lo siento, pero la respuesta correcta es “3 horas”.",
+                    "final": "Lo siento, pero la respuesta correcta es “3 horas”."
+                }
+            },
+            "_buttons": {
+                "submit": "",
+                "reset": "",
+                "showCorrectAnswer": "",
+                "hideCorrectAnswer": ""
+            },
+            "_pageLevelProgress": {
+                "_isEnabled": true
+            }
+    },
+    {
+        "_id":"c-155",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "Pregunta 4",
+        "displayTitle": "Pregunta 4",
+        "body": "",
+        "instruction":"¿Cuál de las siguientes opciones NO es parte de la clasificación del cliente de Beats Pill+?",
+        "_items": [
+            {
+                "text": "A: Descubrir sus necesidades",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "B: Definir la solución de Beats",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "C: Demostrar la experiencia Beats",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D: Entregar el altavoz",
+                "_shouldBeSelected":true
+            }
+        ],
+        "_feedback":{
+            "correct": "¡Ya lo tienes! Entregar el altavoz no es parte de la clasificación del cliente de Beats Pill+.",
+            "_incorrect": {
+                "notFinal": "Lo siento, pero la respuesta correcta era “Entregar el altavoz”.",
+                "final": "Lo siento, pero la respuesta correcta era “Entregar el altavoz”."
+            },
+            "_partlyCorrect": {
+                "notFinal": "Lo siento, pero la respuesta correcta era “Entregar el altavoz”.",
+                "final": "Lo siento, pero la respuesta correcta era “Entregar el altavoz”."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },                            
+    {
+        "_id":"c-160",
+        "_parentId":"b-115",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "Pregunta 5",
+        "displayTitle": "Pregunta 5",
+        "body": "",
+        "instruction":"Beats Pill+ va más allá de los altavoces comunes con Bluetooth de Clase ____, lo que le brinda un alcance mucho mayor.",
+        "_items": [
+            {
+                "text": "A: 1",
+                "_shouldBeSelected":true
+            },
+            {
+                "text": "B: 2",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "C: 3",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D: 4",
+                "_shouldBeSelected":false
+            }
+        ],
+        "_feedback":{
+            "correct": "¡Así es! Bluetooth de Clase 1 significa que tus clientes pueden controlar su altavoz desde un alcance fenomenal.",
+            "_incorrect": {
+                "notFinal": "Lo siento, pero la respuesta correcta era “Bluetooth de Clase 1”.",
+                "final": "Lo siento, pero la respuesta correcta era “Bluetooth de Clase 1”."
+            },
+            "_partlyCorrect": {
+                "notFinal": "Lo siento, pero la respuesta correcta era “Bluetooth de Clase 1”.",
+                "final": "Lo siento, pero la respuesta correcta era “Bluetooth de Clase 1”."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }, 
+    {
+        "_id":"c-165",
+        "_parentId":"b-120",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "Pregunta 6",
+        "displayTitle": "Pregunta 6",
+        "body": "",
+        "instruction":"¿Cuál de las siguientes opciones es una ventaja de usar la aplicación Beats Pill+?",
+        "_items": [
+            {
+                "text": "A: Estéreo: sincroniza dos altavoces Pill+ juntos para un canal izquierdo y un canal derecho",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "B: Amplifica tus sonidos: reproduce el audio mediante dos altavoces Pill+ para un sonido más completo",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "C: Lista de reproducción al estilo DJ: agrega un amigo al Pill+ para turnarse para reproducir la lista de reproducción",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D: Todas estas",
+                "_shouldBeSelected":true
+            }
+        ],
+        "_feedback":{
+            "correct": "¡Así es! Todas estas son las ventajas de usar la aplicación Beats Pill+.",
+            "_incorrect": {
+                "notFinal": "Lo siento, pero la respuesta correcta era “Todas estas”.",
+                "final": "Lo siento, pero la respuesta correcta era “Todas estas”."
+            },
+            "_partlyCorrect": {
+                "notFinal": "Lo siento, pero la respuesta correcta era “Todas estas”.",
+                "final": "Lo siento, pero la respuesta correcta era “Todas estas”."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },                        
+    {
+        "_id":"c-170",
+        "_parentId":"b-125",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "Pregunta 7",
+        "displayTitle": "Pregunta 7",
+        "body": "",
+        "instruction":"Al conectarse mediante Bluetooth, se le indica al cliente que descargue la aplicación Beats Pill+, la misma le permite a tus clientes actualizar el firmware, así como _________ a su dispositivo como un beneficio agregado.",
+        "_items": [
+            {
+                "text": "A: cambiarle la marca",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "B: cambiarle el nombre",
+                "_shouldBeSelected":true
+            },
+            {
+                "text": "C: recalibrar",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D: reutilizar",
+                "_shouldBeSelected":false
+            }
+        ],
+        "_feedback":{
+            "correct": "¡Ya lo tienes! Un beneficio de la aplicación de Beats Pill+ es que les permite a tus clientes cambiarle el nombre a su dispositivo.",
+            "_incorrect": {
+                "notFinal": "Lo siento, pero la respuesta correcta era “cambiarle el nombre”.",
+                "final": "Lo siento, pero la respuesta correcta era “cambiarle el nombre”."
+            },
+            "_partlyCorrect": {
+                "notFinal": "Lo siento, pero la respuesta correcta era “cambiarle el nombre”.",
+                "final": "Lo siento, pero la respuesta correcta era “cambiarle el nombre”."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }                             
+]

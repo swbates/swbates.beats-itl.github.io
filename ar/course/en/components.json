@@ -1,0 +1,919 @@
+[
+    {
+        "_id":"c-05",
+        "_parentId":"b-05",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Introducing the Beats Pill+",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch1_1.jpg",
+            "medium": "course/en/images/ch1_1.jpg",
+            "small": "course/en/images/ch1_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-10",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"تعتبر سماعات +Beats Pill أحدث ابتكار في عالم السماعات اللاسلكية مقدم من شركة Beats by Dr. Dre. توفر سماعات +Beats Pill العديد من المزايا، بما في ذلك <strong>التصميم وإمكانية النقل والمتانة وجودة الصوت  </strong><strong>والتكنولوجيا</strong> التي تتجاوز مزايا السماعات اللاسلكية التقليدية.",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-15",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>استتعرف خلال هذه الوحدة على ما يلي:</strong><br><br><ul><li>المزايا التي تجعل سماعات +Beats Pill تتسم بقوة الأداء<li>المزايا التي تجعل هذه السماعات أفضل حل لعملائك<li>العميل المثالي لهذا النوع من السماعات<li>كيفية ترشيح هذه السماعات لعملائك</ul><br>لذا، دعونا ننتقل سريعًا لنتعرف على الأسباب التي تجعل الجميع يتحدث عن سماعات +Beats Pill الجديدة.",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-20",
+        "_parentId":"b-15",
+        "_type":"component",
+        "_classes": "",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Designed Around You",
+        "displayTitle": "تم تصميمها لتناسب كل الأجواء المحيطة بك",
+        "body": "",
+        "instruction":"توفر سماعات +Beats Pill مزايا رائعة من حيث التصميم والصوت والتكنولوجيا.",
+        "_items": [
+            {
+                "title": "<strong>التصميم</strong>",
+                "body": "تتسم سماعات +Beats Pill بحوافها المستديرة مما يتيح تعبئتها أو حملها بسهولة وأمان، وهذا يعني أنك ستصطحب الموسيقى الخاصة بك في كل مكان تذهب إليه.<br><br>كما أن الشكل المحمول لسماعات +Pill مغلف <strong>بمواد متينة </strong><strong>التحمل</strong>  مما يتيح للعملاء الاستمتاع <strong>\"بتجربة الإمساك بالسماعات والتنقل بها\" في أي مكان.</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s1_1.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "التصميم"
+            },
+            {
+                "title": "<strong>الصوت</strong>",
+                "body": "عندما يتعلق الأمر بالصوت، فإن سماعات +Beats Pill تحتل مكانة الصدارة. فهي تشتمل على <strong>مكبرات صوت مزدوجة للترددات المنخفضة مثبتة في الوسط عالية الجودة ومنخفضة التكلفة، بالإضافة إلى مكبرات صوت مزدوجة للترددات العالية مثبتة في كل طرف لتوفير مستويات أصوات عالية مثيرة. </strong>يعتبر وضع مكبرات الصوت عالية التردد في الجزء الخارجي للسماعات أمرًا مقصودًا في التصميم، وذلك من أجل الاستمتاع بتجربة استماع \"خارج النطاق\" أفضل، مما يعني أنك لست مضطرًا لأن تكون أمام السماعة مباشرةً حتى تستمتع بجودة الصوت الممتازة.<br><br>لا تنخدع بالحجم الصغير لسماعات +Beats Pill، فهي تمتلك القدرة على <strong>إنتاج صوت مدهش ومؤثر يملأ الأجواء المحيطة.</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s1_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "الصوت"
+            },
+            {
+                "title": "<strong>التكنولوجيا</strong>",
+                "body": "تشتمل سماعات +Beats Pill على <strong>ميزة بلوتوث من الفئة 1 الرائدة على مستوى الصناعة </strong>مما يعني أنها تتمتع بقدرة أكبر على التوصيل والتشغيل <strong>ولفترة أطول من السماعات اللاسلكية الأخرى المتوفرة في السوق.</strong><br><br>بالإضافة إلى ميزة البلوتوث المحسّنة التي تتمتع بها هذه السماعات، فإن سماعات +Beats Pill تتضمن أيضًا <strong>ميزة العبور النشط</strong>، التي تمكنها من <strong>إرسال ترددات الموسيقى إلى السماعات لمعالجتها بشكل أفضل وإنتاج صوت بجودة ممتازة.</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s1_3.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "التكنولوجيا"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-25",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-10\" id=\"next-button\">التالي</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-30",
+        "_parentId":"b-25",
+        "_classes": "",
+        "_type":"component",
+        "_component": "hotgraphic",
+        "_layout": "full",    
+        "title": "It’s all in the Details",
+        "displayTitle": "",
+        "body": "",
+        "instruction":"من السهل التعرف على الأسباب التي تجعل سماعات +Beats Pill مصدرًا للأداء القوي. إليك عدد قليل من بين مزايا عديدة تميّز هذا النوع من السماعات وتجعله بعيدًا عن المنافسة.",
+        "_graphic": {
+            "src": "course/en/images/hg1_main.jpg",
+            "alt": "",
+            "title": ""
+        },
+        "_items": [
+            {
+                "title": "<strong>بطارية قابلة لإعادة الشحن تدوم لمدة 12 ساعة</strong>",
+                "body": "بفضل قدرتها على الاحتفاظ بالطاقة لمدة يوم كامل، يستغرق شحن سماعات +Beats Pill‏ 3 ساعات فقط، وهي تحتوي على بطارية قابلة لإعادة الشحن تدوم لمدة 12 ساعة، كما أنها مزودة بعداد شحن لمراقبة كم طاقة البطارية المتبقية.",
+                "_graphic": {
+                    "src": "course/en/images/hg1_1.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+            "strapline": "<strong>بطارية قابلة لإعادة الشحن تدوم لمدة 12 ساعة</strong>",
+            "_top": 49,
+            "_left": 26
+            },
+            {
+                "title": "<strong>لشحن الخارجي</strong>",
+                "body": "أصبح من السهل الآن مواصلة الاستمتاع بالموسيقى، حيث يمكنك شحن هاتفك أو جهاز الموسيقى الخارجي من خلال الإمكانية الإضافية التي تتمتع بها سماعات +Beats Pill، وهي احتوائها على موصل Apple Lightning. يمكن لعملائك أيضًا شحن أي جهاز USB محمول بسهولة.",
+                "_graphic": {
+                    "src": "course/en/images/hg1_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+            "strapline": "<strong>لشحن الخارجي</strong>",
+            "_top": 43,
+            "_left": 90
+            },
+            {
+                "title": "<strong>ميزة العبور النشط</strong>",
+                "body": "تقوم ميزة العبور النشط بإرسال الترددات المناسبة إلى السماعات التي تقوم بمعالجتها بأفضل شكل. وهذا يعني أن ترددات الموسيقى الأقل من 2 كيلوهرتز يتم إرسالها إلى مكبرات صوت الترددات المنخفضة، بينما يتم إرسال الترددات الأعلى من 2 كيلوهرتز عبر مكبرات الصوت عالية التردد.",
+                "_graphic": {
+                    "src": "course/en/images/hg1_3.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+            "strapline": "<strong>ميزة العبور النشط</strong>",
+            "_top": 66,
+            "_left": 48
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-35",
+        "_parentId":"b-30",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "قف وفكر!",
+        "displayTitle": "قف وفكر!",
+        "body": "تشتمل سماعات +Beats Pill على ميزة العبور النشط. كيف تساعد هذه الميزة في تقديم تجربة عالية الدقة لعملائك؟",
+        "instruction":"",
+        "_items": [
+            {
+                "text": "أ. ترسل ترددات الموسيقى إلى السماعات التي يمكنها معالجة هذه الترددات بأفضل شكل",
+                "_shouldBeSelected":true
+            },
+            {
+                "text": "ب. لن تقوم بتشغيل الترددات خارج نطاق السماعة، مما يمنع تشوه الصوت",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "ج. تقوم بمزامنة سماعات +Beats Pill متعددة معًا للحصول على صوت استيريو",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "د. تحافظ على أجهزتك مشحونة باستخدام كابل Apple Lightning",
+                "_shouldBeSelected":false
+            }
+        ],
+        "_feedback":{
+            "correct": "إجابة صحيحة! يمكن اعتبار ميزة العبور النشط بمثابة شرطي المرور للصوت. فهي ترسل الترددات إلى السماعة التي يمكنها معالجة الترددات بأفضل شكل، مما يوفر لسماعة +Beats Pill صوتًا نقيًا عالي الدقة.",
+        "_incorrect": {
+            "notFinal": "عذرًا، لكن الإجابة الصحيحة هي \"ترسل ترددات الموسيقى إلى سماعات الصوت التي يمكنها معالجة الترددات بأفضل الشكل.\"",
+            "final": "عذرًا، لكن الإجابة الصحيحة هي \"ترسل ترددات الموسيقى إلى سماعات الصوت التي يمكنها معالجة الترددات بأفضل الشكل.\""
+        },
+        "_partlyCorrect": {
+            "notFinal": "عذرًا، لكن الإجابة الصحيحة هي \"ترسل ترددات الموسيقى إلى سماعات الصوت التي يمكنها معالجة الترددات بأفضل الشكل.\"",
+            "final": "عذرًا، لكن الإجابة الصحيحة هي \"ترسل ترددات الموسيقى إلى سماعات الصوت التي يمكنها معالجة الترددات بأفضل الشكل.\""
+        }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-40",
+        "_parentId":"b-35",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"There’s an App for that",
+        "displayTitle":"<br>هناك التطبيق لذلك",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch2_1.jpg",
+            "medium": "course/en/images/ch2_1.jpg",
+            "small": "course/en/images/ch2_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-45",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"يوفر <strong>تطبيق +Beats Pill</strong> العديد من المزايا. يُطلب من عملائك تلقائيًا تنزيل التطبيق عند اتصالهم عبر البلوتوث. يقوم تطبيق +Beats Pill بتنشيط العديد من الميزات التي تتيح لك مشاركة قائمة التشغيل لديك بأساليب اجتماعية جديدة، وتحديث البرامج الثابتة بسهولة، فضلاً عن إعادة تسمية سماعات +Pill مما يسهّل تحديدها ومزامنتها.<br><br><strong>تشغيل الأغاني المسجلة على قائمة التشغيل</strong>: اختر صديقًا وتحكم في الموسيقى من مصدري بلوتوث من أجل الحصول على تجربة اجتماعية بشكل أكبر.",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-50",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>تكبير الأصوات</strong>: توصيل الصوت وتشغيله عبر سماعتي +Beats Pill للاستمتاع بصوت أكثر اكتمالاً وديناميكية.<br><br><strong>الحصول على صوت استيريو: </strong>يمكن مزامنة سماعتي +Beats Pill معًا بسهولة حيث تقوم إحدى السماعتين بتشغيل القناة اليسرى وتقوم الأخرى بتشغيل القناة اليمنى، مما يوفر لعملائك مستوى أكبر من الصوت الاستيريو للحصول على تجربة أكثر إمتاعًا.",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-55",
+        "_parentId":"b-45",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-05\" id=\"prev-button\">السابق</a><a href=\"#/id/co-15\" id=\"next-button\">التالي</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+{
+        "_id":"c-60",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"In a Class all its Own",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch3_1.jpg",
+            "medium": "course/en/images/ch3_1.jpg",
+            "small": "course/en/images/ch3_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-65",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"تُستخدم <strong>ميزة بلوتوث من الفئة 1</strong> بشكل أساسي في حالات الاستخدام الصناعي، حيث إنها توفر <strong>نطاقًا موسعًا </strong>بشكل أكبر مقارنة بأجهزة البلوتوث الأخرى (ذات المدى المحدود الذي يبلغ 33 قدمًا تقريبًا).<br><br><strong>شجّع عملائك على اختبار مدى </strong>البلوتوث في سماعات +Beats Pill، فهذا سيمنحهم تصورًا حقيقيًا لفكرة المدى المحسّن بشكل كبير.",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-70",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"توفر سماعات +Beats Pill ميزة بلوتوث هائلة، لكن هذه الميزة لا يمكن توفيرها بسهولة للموسيقى. كما أن سماعات +Beats Pill مزودة بميزة <strong>مكبر صوت الهاتف</strong>، مما يوفر أداءً <strong>محسّنًا للصوت.</strong><br><br>تعني ميزة مكبر صوت الهاتف أنه يمكن لعملائك إ<strong>جراء المكالمات واستقبالها بمستوى أكبر من الوضوح ونقاء الصوت.</strong>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-75",
+        "_parentId":"b-60",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Leading the Class",
+        "displayTitle":"ريادة على مستوى الفئة",
+        "body":"يتضمن هذا الجدول مقارنة سهلة بين سماعات Beats Pill وسماعات +Beats Pill.",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch3_2.jpg",
+            "medium": "course/en/images/ch3_2.jpg",
+            "small": "course/en/images/ch3_2.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-80",
+        "_parentId":"b-65",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-10\" id=\"prev-button\">السابق</a><a href=\"#/id/co-20\" id=\"next-button\">التالي</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-85",
+        "_parentId":"b-70",
+        "_type":"component",
+        "_component":"accordion",
+        "_classes":"",
+        "_layout":"full",
+        "title": "Delivering the Beats Experience ",
+        "displayTitle": "",
+        "body": "من المهم تحديد احتياجات العملاء لتحديد حل المنتجات المناسب لهم بشكل مثالي وتوفير تجربة Beats الكاملة لهم.",
+        "instruction":"",
+        "_items": [
+            {
+                "alt": "",
+                "title": "تعرف على احتياجاتهم",
+                "body": "يعتبر التعرف على احتياجات المستمع الخطوة الأولى في عملية تحديد المواصفات التي يطلبها. من المهم <strong>عدم وضع افتراضات، وطرح أسئلة مفتوحة، وإعادة الصياغة من أجل التوضيح.</strong>"
+            },
+            {
+                "alt": "",
+                "title": "تحديد حل Beats",
+                "body": "تتمثل الخطوة الثانية في عملية تحديد المواصفات التي يطلبها العميل في تحديد الحل المقدم من جانب Beats. للقيام بذلك، يجب أن تقوم <strong>بمطابقة احتياجات المستمع بالمنتج المناسب وتوضيح المزايا التي تتفوق بها Beats عن الشركات المنافسة.</strong>"
+            },
+            {
+                "alt": "",
+                "title": "عرض تجربة Beats",
+                "body": "تتمثل الخطوة الثالثة والأخيرة في عملية تحديد المواصفات التي يطلبها العميل في عرض تجربة Beats. <strong>دع العميل يقوم بتجربة منتج Beats بنفسه </strong>من خلال <strong>تشغيل أغنية مناسبة للموسيقى التي يفضلها، والتأكد من أن المستمع قد سمع بالفعل مزايا Beats</strong> بنفسه."
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-90",
+        "_parentId":"b-75",
+        "_type":"component",
+        "_classes": "",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Who’s it for?",
+        "displayTitle": "من العملاء المناسبون لهذا المنتج؟",
+        "body": "",
+        "instruction":"من المهم أن تكون لديك القدرة على بيع سماعات +Beats Pill لعملائك. استخدم هذه الصفحة للتعرف على بعض هؤلاء العملاء، والأسباب التي تجعلهم يفضلون سماعات +Pill.",
+        "_items": [
+            {
+                "title": "<strong>جون</strong>",
+                "body": "<strong>العميل: </strong>\"لقد بدأت دراستي في الكلية للتو، وأبحث عن سماعة لاسلكية مناسبة للاستخدام في مسكني. ما النوع الذي ترشحه لي؟\"<br><br><strong>مزود الخدمة: </strong>\"يجب أن تفكر في شراء سماعات +Beats Pill. <strong>فهي سماعات محمولة خفيفة الوزن، وفي الوقت نفسه توفر صوتًا يملأ الأرجاء!\"</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s2_1.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "جون"
+            },
+            {
+                "title": "<strong>بيتر</strong>",
+                "body": "<strong>العميل: </strong>\"أسافر كثيرًا للعمل، والسماعة التي لدي حاليًا دائمًا ما تكون فارغة الشحن. هل لديك نوع من السماعات مزود ببطارية لها عمر أطول؟\"<br><br><strong>مزود الخدمة: </strong>\"يمكنك استخدام سماعات +Beats Pill. فهي مزودة <strong>ببطارية قابلة لإعادة الشحن تدوم لمدة 12 ساعة</strong> كما أنها توفر ميزة \"الشحن الخارجي\" بحيث يمكنك شحن أجهزة USB المحمولة الأخرى لديك أيضًا.\"",
+                "_graphic": {
+                    "src": "course/en/images/s2_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "بيتر"
+            },
+            {
+                "title": "<strong>آرون</strong>",
+                "body": "<strong>العميل: </strong>\"أحب إقامة الحفلات في ساحة منزلي الخلفية. كيف يمكنني الحصول على أفضل صوت هناك؟\"<br><br><strong>مزود الخدمة: </strong>\"سماعات +Pill ستكون مثالية لحفلاتك. ستتمكن من مزامنة أكثر من سماعة معًا، وهذا يعني الاستمتاع بصوت أكثر قوة في حفلاتك.\"",
+                "_graphic": {
+                    "src": "course/en/images/s2_3.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "آرون"
+            },
+            {
+                "title": "<strong>أشلي</strong>",
+                "body": "<strong>العميل: </strong>\"لدي سماعة لاسلكية صغيرة، وأشعر بخيبة أمل باستمرار بسبب جودة الصوت الرديئة. هل لديك نوع من السماعات صغير لكنه يوفر جودة صوت عالية بالفعل؟\"<br><br><strong>مزود الخدمة: </strong>\"ستعجبك سماعات +Beats Pill. فعلى الرغم من أنها صغيرة الحجم، إلا أنها مزودة بميزة <strong>\"العبور النشط\"</strong>، التي تعني أن الترددات المنخفضة يتم إرسالها إلى سماعات الترددات المنخفضة، بينما يتم إرسال الترددات العالية إلى سماعات الترددات العالية، مما يوفر صوتًا نقيًا عالي الدقة.\"",
+                "_graphic": {
+                    "src": "course/en/images/s2_4.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "أشلي"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-95",
+        "_parentId":"b-80",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Wrapping It Up",
+        "displayTitle":"الخاتمة",
+        "body":"",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-100",
+        "_parentId":"b-85",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch4_1.jpg",
+            "medium": "course/en/images/ch4_1.jpg",
+            "small": "course/en/images/ch4_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-105",
+        "_parentId":"b-85",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"تتميز سماعات +Beats Pill عن السماعات اللاسلكية الأخرى بثلاث مزايا فريدة؛ <strong>التصميم، والصوت، والتكنولوجيا.</strong><br><br>عند ترشيح سماعات +Beats Pill للعملاء، تذكّر أن الأمر يبدأ بتحديد حل Beats المناسب لاحتياجات العميل؛ <strong>والتعرف على احتياجات العميل، وتحديد الحل المقدم من جانب Beats وعرض تجربة Beats.</strong><br><br><strong>لقد تعرفت خلال هذه الوحدة على ما يلي:</strong><br><ul><li>المزايا التي تجعل سماعات +Beats Pill سماعات لاسلكية قوية<li>المزايا التي تجعل هذه السماعات أفضل حل لعملائك<li>العميل المثالي لهذا النوع من السماعات<li>كيفية ترشيح هذه السماعات لعملائك</ul><br>والآن، بما أنك قد اكتسبت المعرفة اللازمة فيما يتعلق بسماعات +Beats Pill، فإن الأمر متروك لك <strong>لترشيحها لعملائك!</strong>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-110",
+        "_parentId":"b-90",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-15\" id=\"prev-button\">السابق</a><a href=\"#/id/co-25\" id=\"next-button\">التالي</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },    
+    
+    {
+        "_id":"c-115",
+        "_parentId":"b-95",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "السؤال الأول",
+        "displayTitle": "السؤال الأول",
+        "body": "",
+        "instruction":"سماعات +Beats Pill مزودة بميزة \"الشحن الخارجي\"، التي تتيح لعملائك شحن أي جهاز USB محمول، إلا أن سماعات +Pill يتم شحنها باستخدام بهذه الوصلة:",
+            "_items": [
+                {
+                    "text": "أ: USB صغير",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "ب: Apple Lightning",
+                    "_shouldBeSelected":true
+                },
+                {
+                    "text": "ج: USB 3.0",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "د: Apple 30-Pin",
+                    "_shouldBeSelected":false
+                }
+            ],
+        "_feedback":{
+            "correct": "حصلت على الإجابة الصحيحة. تحتوي سماعات +Beats Pill على موصل Apple Lightning.",
+            "_incorrect": {
+                "notFinal": "عذرًا، لكن الإجابة الصحيحة كانت \"Apple Lightning\".",
+                "final": "عذرًا، لكن الإجابة الصحيحة كانت \"Apple Lightning\"."
+            },
+            "_partlyCorrect": {
+                "notFinal": "عذرًا، لكن الإجابة الصحيحة كانت \"Apple Lightning\".",
+                "final": "عذرًا، لكن الإجابة الصحيحة كانت \"Apple Lightning\"."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-120",
+        "_parentId":"b-100",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "السؤال الثاني",
+        "displayTitle": "السؤال الثاني",
+        "body": "",
+        "instruction":"ما هو عمر بطارية +Beats Pill؟",
+        "_items": [
+            {
+                    "text": "أ: 12 ساعة",
+                    "_shouldBeSelected":true
+                },
+                {
+                    "text": "ب: 6 ساعات",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "ج: 8 ساعات",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "د: 10 ساعات",
+                    "_shouldBeSelected":false
+                }
+        ],
+        "_feedback":{
+            "correct": "إجابة صحيحة! سماعات +Beats Pill مزودة ببطارية قابلة لإعادة الشحن تدوم لمدة 12 ساعة.",
+            "_incorrect": {
+                "notFinal": "عذرًا، لكن الإجابة الصحيحة هي \"12 ساعة\".",
+                "final": "عذرًا، لكن الإجابة الصحيحة هي \"12 ساعة\"."
+            },
+            "_partlyCorrect": {
+                "notFinal": "عذرًا، لكن الإجابة الصحيحة هي \"12 ساعة\".",
+                "final": "عذرًا، لكن الإجابة الصحيحة هي \"12 ساعة\"."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-125",
+        "_parentId":"b-105",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "السؤال الثالث",
+        "displayTitle": "السؤال الثالث",
+        "body": "",
+        "instruction":"سماعات +Beats Pill مزودة ببطارية قابلة لإعادة الشحن تدوم لمدة طويلة. ما الوقت المستغرق للوصول إلى الشحن الكامل؟",
+            "_items": [
+                {
+                    "text": "أ: 3 ساعات",
+                    "_shouldBeSelected":true
+                },
+                {
+                    "text": "ب: ساعة واحدة",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "ج: 6 ساعات",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "د: 12 ساعة",
+                    "_shouldBeSelected":false
+                }
+            ],
+            "_feedback":{
+                "correct": "إجابة صحيحة! يتم شحن سماعات +Beats Pill خلال 3 ساعات فقط، لكنها تعمل لمدة نصف يوم!!",
+                "_incorrect": {
+                    "notFinal": "عذرًا، لكن الإجابة الصحيحة هي \"3 ساعات\".",
+                    "final": "عذرًا، لكن الإجابة الصحيحة هي \"3 ساعات\"."
+                },
+                "_partlyCorrect": {
+                    "notFinal": "عذرًا، لكن الإجابة الصحيحة هي \"3 ساعات\".",
+                    "final": "عذرًا، لكن الإجابة الصحيحة هي \"3 ساعات\"."
+                }
+            },
+            "_buttons": {
+                "submit": "",
+                "reset": "",
+                "showCorrectAnswer": "",
+                "hideCorrectAnswer": ""
+            },
+            "_pageLevelProgress": {
+                "_isEnabled": true
+            }
+    },
+    {
+        "_id":"c-130",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "السؤال الرابع",
+        "displayTitle": "السؤال الرابع",
+        "body": "",
+        "instruction":"أي مما يلي ليس جزءًا من عملية تحديد المواصفات المطلوبة لعميل +Beats Pill؟",
+        "_items": [
+            {
+                "text": "أ: التعرف على احتياجات العميل",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "ب: تحديد حل Beats",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "ج: عرض تجربة Beats",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "د: تسليم السماعة",
+                "_shouldBeSelected":true
+            }
+        ],
+        "_feedback":{
+            "correct": "حصلت على الإجابة الصحيحة. تسليم السماعة لا يعتبر جزءًا من عملية تحديد المواصفات المطلوبة لعميل +Beats Pill.",
+            "_incorrect": {
+                "notFinal": "عذرًا، لكن الإجابة الصحيحة هي \"تسليم السماعة\".",
+                "final": "عذرًا، لكن الإجابة الصحيحة هي \"تسليم السماعة\"."
+            },
+            "_partlyCorrect": {
+                "notFinal": "عذرًا، لكن الإجابة الصحيحة هي \"تسليم السماعة\".",
+                "final": "عذرًا، لكن الإجابة الصحيحة هي \"تسليم السماعة\"."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },                            
+    {
+        "_id":"c-135",
+        "_parentId":"b-115",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "السؤال الخامس",
+        "displayTitle": "السؤال الخامس",
+        "body": "",
+        "instruction":"تتفوق سماعات +Beats Pill على السماعات اللاسلكية القياسية بميزة بلوتوث من الفئة ___، مما يوفر لها مدىً أكبر بكثير.",
+        "_items": [
+            {
+                "text": "أ: 1",
+                "_shouldBeSelected":true
+            },
+            {
+                "text": "ب: 2",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "ج: 3",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "د: 4",
+                "_shouldBeSelected":false
+            }
+        ],
+        "_feedback":{
+            "correct": "إجابة صحيحة! تعني ميزة البلوتوث من الفئة 1 أنه بإمكان عملائك التحكم في السماعة من مدى هائل.",
+            "_incorrect": {
+                "notFinal": "عذرًا، لكن الإجابة الصحيحة هي \"بلوتوث من الفئة 1\".",
+                "final": "عذرًا، لكن الإجابة الصحيحة هي \"بلوتوث من الفئة 1\"."
+            },
+            "_partlyCorrect": {
+                "notFinal": "عذرًا، لكن الإجابة الصحيحة هي \"بلوتوث من الفئة 1\".",
+                "final": "عذرًا، لكن الإجابة الصحيحة هي \"بلوتوث من الفئة 1\"."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }, 
+    {
+        "_id":"c-140",
+        "_parentId":"b-120",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "السؤال السادس",
+        "displayTitle": "السؤال السادس",
+        "body": "",
+        "instruction":"أي مما يلي يعتبر أحد مزايا استخدام تطبيق +Beats Pill؟",
+        "_items": [
+            {
+                "text": "أ: الاستيريو - مزامنة سماعتي +Pill معًا لتشغيل القناة اليسرى واليمنى",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "ب: تكبير الصوت - دفق الصوت عبر سماعتي +Pill للحصول على صوت أكثر اكتمالاً",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "ج: تشغيل الأغاني المسجلة على قائمة التشغيل - إضافة صديق إلى +Pill لتناوب الأدوار في تشغيل قائمة التشغيل",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "د: كل ما سبق",
+                "_shouldBeSelected":true
+            }
+        ],
+        "_feedback":{
+            "correct": "إجابة صحيحة! يعتبر كل ما سبق من مزايا استخدام تطبيق +Beats Pill.",
+            "_incorrect": {
+                "notFinal": "عذرًا، لكن الإجابة الصحيحة هي \"كل ما سبق\".",
+                "final": "عذرًا، لكن الإجابة الصحيحة هي \"كل ما سبق\"."
+            },
+            "_partlyCorrect": {
+                "notFinal": "عذرًا، لكن الإجابة الصحيحة هي \"كل ما سبق\".",
+                "final": "عذرًا، لكن الإجابة الصحيحة هي \"كل ما سبق\"."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },                        
+    {
+        "_id":"c-145",
+        "_parentId":"b-125",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "السؤال السابع",
+        "displayTitle": "السؤال السابع",
+        "body": "",
+        "instruction":"تتم المطالبة بتنزيل تطبيق +Beats Pill عند الاتصال عبر البلوتوث، وهو يتيح لعملائك تحديث البرامج الثابتة، بالإضافة إلى __________ أجهزتهم كميزة إضافية.",
+        "_items": [
+            {
+                "text": "أ: إعادة تصنيف",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "ب: إعادة تسمية",
+                "_shouldBeSelected":true
+            },
+            {
+                "text": "ج: إعادة معايرة",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "د: إعادة استخدام",
+                "_shouldBeSelected":false
+            }
+        ],
+        "_feedback":{
+            "correct": "حصلت على الإجابة الصحيحة. يتيح تطبيق +Beats Pill لعملائك إعادة تسمية أجهزتهم كميزة إضافية.",
+            "_incorrect": {
+                "notFinal": "عذرًا، لكن الإجابة الصحيحة هي \"إعادة تسمية\".",
+                "final": "عذرًا، لكن الإجابة الصحيحة هي \"إعادة تسمية\"."
+            },
+            "_partlyCorrect": {
+                "notFinal": "عذرًا، لكن الإجابة الصحيحة هي \"إعادة تسمية\".",
+                "final": "عذرًا، لكن الإجابة الصحيحة هي \"إعادة تسمية\"."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }                             
+]

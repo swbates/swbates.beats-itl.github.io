@@ -1,0 +1,14 @@
+{
+    "_id": "course",
+    "_type": "course",
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "_buttons": {
+        "submit": "送信",
+        "reset": "Reset",
+        "showCorrectAnswer": "Model Answer",
+        "hideCorrectAnswer": "My Answer"
+    },
+    "_latestTrackingId": 12
+}

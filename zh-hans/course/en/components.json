@@ -1,0 +1,919 @@
+[
+    {
+        "_id":"c-05",
+        "_parentId":"b-05",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"隆重推出 Beats Pill+。",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch1_1.jpg",
+            "medium": "course/en/images/ch1_1.jpg",
+            "small": "course/en/images/ch1_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-10",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"Beats Pill+ 是 Beats by Dr. Dre 无线扬声器的最新创新技术。Beats Pill+ 提供了诸多优点，包括<strong>优良设计、便携性和耐用性</strong>以及突破传统无线扬声器的<strong>音质和技术</strong>。",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-15",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>通过本单元，您将了解到：</strong><br><br><ul><li>是什么令 Beats Pill+ 拥有如此强大的性能<li>是什么令这款扬声器成为您的客户的最佳解决方案<li>哪些为理想的客户<li>推荐对象</ul><br>那么现在让我们进入正题，了解为何每个人都在谈论这款全新的 Beats Pill+。",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-20",
+        "_parentId":"b-15",
+        "_type":"component",
+        "_classes": "",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "因您而设计",
+        "displayTitle": "因您而设计",
+        "body": "",
+        "instruction":"Beats Pill+ 拥有卓越设计、音质和技术。",
+        "_items": [
+            {
+                "title": "<strong>设计</strong>",
+                "body": "Beats Pill+ 拥有<strong>圆形边缘，易于包装和携带且安全可靠，</strong>方便<strong><i>便携式体验</i>畅听音乐。</strong><br><br>这款 Pill+ 产品具有轻便外形并采用<strong>耐用材料</strong>包裹而成，可为您的客户打造真正的<strong>便携式体验。</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s1_1.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "设计"
+            },
+            {
+                "title": "<strong>音质</strong>",
+                "body": "Beats Pill+ 拥有无可匹敌的音质效果。它采用<strong>安装于中央的双低音扬声器以实现优质低音，而两端的双高音扬声器则可产生引人入胜的高音。</strong>这款产品特意将高音扬声器安装于外侧以提供更佳的“离轴”聆听效果，意味着您无需位于扬声器正前方即可畅享优质音效。<br><br>Beats Pill+ 外形虽小，五脏俱全，<strong>可产生贯穿整个房间的出色音效。</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s1_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "音质"
+            },
+            {
+                "title": "<strong>技术</strong>",
+                "body": "Beats Pill+ 结合了<strong>业界领先的 Class 1 蓝牙，</strong>这意味着 Beats Pill+ 能够实现<strong>比市场其他无线扬声器更远的连接和播放范围。</strong><br><br>除了拥有改进的蓝牙技术，Beats Pill+ 还采用了<strong>有源分频网络，将音乐频率发送给可进行最佳处理的扬声器，从而产生卓越音效。</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s1_3.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "技术"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-25",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-10\" id=\"next-button\">下一页</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-30",
+        "_parentId":"b-25",
+        "_classes": "",
+        "_type":"component",
+        "_component": "hotgraphic",
+        "_layout": "full",    
+        "title": "细节决定一切",
+        "displayTitle": "",
+        "body": "",
+        "instruction":"我们很容易看到 Beats Pill+ 为何拥有如此强大的性能。下面列举使该产品从竞争产品中脱颖而出的一些细节。",
+        "_graphic": {
+            "src": "course/en/images/hg1_main.jpg",
+            "alt": "",
+            "title": ""
+        },
+        "_items": [
+            {
+                "title": "<strong>续航时间长达 12 小时的可充电电池</strong>",
+                "body": "Beats Pill+ 仅需 3 小时即可完成充电，拥有续航时间长达 12 小时的可充电电池，还有电量计方便您检测剩余电量，为您提供一整天的畅听享受。",
+                "_graphic": {
+                    "src": "course/en/images/hg1_1.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+            "strapline": "续航时间长达 12 小时的可充电电池",
+            "_top": 49,
+            "_left": 26
+            },
+            {
+                "title": "<strong>外接充电</strong>",
+                "body": "您可利用 Beats Pill+ 配备的 Apple Lightning 接口和剩余电量为您的手机或外部音乐设备充电。您的客户可轻松为任何 USB 移动设备充电。",
+                "_graphic": {
+                    "src": "course/en/images/hg1_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+            "strapline": "外接充电",
+            "_top": 43,
+            "_left": 90
+            },
+            {
+                "title": "<strong>有源分频网络</strong>",
+                "body": "有源音频分频网络将正确的频率发送给可进行最佳处理的扬声器。这意味着低于 2kHz 的音乐频率将被发送至低音扬声器，而高于 2kHz 的音频则被发送至高音扬声器。",
+                "_graphic": {
+                    "src": "course/en/images/hg1_3.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+            "strapline": "有源分频网络",
+            "_top": 66,
+            "_left": 48
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-35",
+        "_parentId":"b-30",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "停下来想一想！",
+        "displayTitle": "停下来想一想！",
+        "body": "Beats Pill+ 采用了有源分频网络。该功能如何有助于为您的客户提供高保真度体验？",
+        "instruction":"",
+        "_items": [
+            {
+                "text": "A. 将音乐频率发送给可进行最佳处理的扬声器",
+                "_shouldBeSelected":true
+            },
+            {
+                "text": "B. 不会播放超出扬声器范围的频率，从而防止失真",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "C. 让多个 Beats Pill+ 扬声器同步工作以产生立体声",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D. 通过 Apple Lightning 接线让您的设备保持充电状态",
+                "_shouldBeSelected":false
+            }
+        ],
+        "_feedback":{
+            "correct": "回答正确！将有源分频网络想象成指挥音频的交警。它将频率发送给可进行最佳处理的扬声器，为 Beats Pill+ 打造高清高保真度音效。",
+        "_incorrect": {
+            "notFinal": "很抱歉，正确的答案为“将音乐频率发送给可进行最佳处理的扬声器”。",
+            "final": "很抱歉，正确的答案为“将音乐频率发送给可进行最佳处理的扬声器”。"
+        },
+        "_partlyCorrect": {
+            "notFinal": "很抱歉，正确的答案为“将音乐频率发送给可进行最佳处理的扬声器”。",
+            "final": "很抱歉，正确的答案为“将音乐频率发送给可进行最佳处理的扬声器”。"
+        }
+        },
+        "_buttons": {
+            "submit": "提交",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-40",
+        "_parentId":"b-35",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"有一个App为",
+        "displayTitle":"<br>有一个App为",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch2_1.jpg",
+            "medium": "course/en/images/ch2_1.jpg",
+            "small": "course/en/images/ch2_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-45",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>Beats Pill+ App</strong> 充分利用诸多优势。您的客户通过蓝牙连接时将获得下载该应用程序的自动提示。该 Beats Pill+ 应用程序具备多项功能，方便您通过新的社交方式分享播放列表，轻松更新固件，以及重新命名 Pill+ 以便于识别和同步。<br><br><strong>随心所欲地设计播放列表：</strong>您可添加朋友，从两个蓝牙传输源控制音乐以畅享更独特的社交体验。",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-50",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>放大音效：</strong>通过 2 个 Beats Pill+ 扬声器连接和传输音频，打造更饱满、更动感十足的音效。<br><br><strong>打造立体声：</strong>您的客户可轻松地让两部 Beats Pill+ 扬声器同步工作，让其中一个播放左声道，另一个播放右声道，从而获得更震撼的立体声音效和更加身临其境的体验。",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-55",
+        "_parentId":"b-45",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-05\" id=\"prev-button\">返回</a><a href=\"#/id/co-15\" id=\"next-button\">下一页</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+{
+        "_id":"c-60",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"高端配置",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch3_1.jpg",
+            "medium": "course/en/images/ch3_1.jpg",
+            "small": "course/en/images/ch3_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-65",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>Class 1 蓝牙</strong>主要用于工业用途，可提供比其他蓝牙设备（局限于约 33 英尺）更为广泛的<strong>覆盖范围。<br><br>强烈建议您的客户测试 Beats Pill+ 的蓝牙覆盖范围</strong>，让他们亲自见证其覆盖范围之广。",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-70",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"Beats Pill+ 可提供卓越的蓝牙功能，但该功能并不局限于音乐播放。Beats Pill+ 还可用作<strong>免提电话，提高声音质量。</strong><br><br>您的客户可利用该免提电话功能<strong>轻松拨打和接听电话并获得更清晰的音质。</strong>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-75",
+        "_parentId":"b-60",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"遥遥领先",
+        "displayTitle":"遥遥领先",
+        "body":"以下表格列举了 Beats Pill 和 Beats Pill+ 的一些功能对比，让您一目了然。",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch3_2.jpg",
+            "medium": "course/en/images/ch3_2.jpg",
+            "small": "course/en/images/ch3_2.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-55",
+        "_parentId":"b-65",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-10\" id=\"prev-button\">返回</a><a href=\"#/id/co-20\" id=\"next-button\">下一页</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-60",
+        "_parentId":"b-70",
+        "_type":"component",
+        "_component":"accordion",
+        "_classes":"",
+        "_layout":"full",
+        "title": "提供了Beats豁达",
+        "displayTitle": "",
+        "body": "首先我们必须了解客户的需求，才能为其定制理想的产品解决方案，从而打造完美无瑕的 Beats 卓越体验。",
+        "instruction":"",
+        "_items": [
+            {
+                "alt": "",
+                "title": "了解客户需求",
+                "body": "了解听众需求是限定客户的第一步。我们<strong>切不可作出假设，应提问开放式问题并阐释以确保理解清晰。</strong>"
+            },
+            {
+                "alt": "",
+                "title": "制定 Beats 解决方案",
+                "body": "限定客户的第二步是制定 Beats 解决方案。要做到这一点，您必须<strong>拿出符合听众需求的合适产品</strong>，然后<strong>详述 Beats 对比竞争产品所具备的优势。</strong>"
+            },
+            {
+                "alt": "",
+                "title": "演示 Beats 卓越体验",
+                "body": "限定客户的第三步，即最后一步是演示 Beats 卓越体验。<strong>通过播放客户喜欢的乐曲让他们亲身体验 Beats 产品，并确认听众真实地了解了 Beats 的优势</strong>。"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-65",
+        "_parentId":"b-75",
+        "_type":"component",
+        "_classes": "",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "产品推荐对象是谁？",
+        "displayTitle": "产品推荐对象是谁？",
+        "body": "",
+        "instruction":"能够将 Beats Pill+ 销售给您的客户显得至关重要。利用此页面来了解适用客户有哪些以及为何他们会喜欢 Pill+。",
+        "_items": [
+            {
+                "title": "<strong>John</strong>",
+                "body": "<strong>客户：</strong>“我刚刚上大学，我正在寻找一款无线扬声器，我想放在宿舍内。您有什么好推荐？”<br><br><strong>RSP：</strong>“您可以考虑购买 Beats Pill+。<strong>这款产品轻盈便携，同时可产生贯穿整个房间的出色音效！”</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s2_1.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "John"
+            },
+            {
+                "title": "<strong>Peter</strong>",
+                "body": "<strong>客户：</strong>“我经常出差，我现在用的扬声器老是出问题。您有没有电池续航时间更长的产品？”<br><br><strong>RSP：</strong>“您可以试试 Beats Pill+。这款产品配备了<strong>续航时间长达 12 小时的可充电电池，</strong>甚至还提供‘外接充电’功能，因此您也可以为您的其他 USB 移动设备充电。”",
+                "_graphic": {
+                    "src": "course/en/images/s2_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Peter"
+            },
+            {
+                "title": "<strong>Aaron</strong>",
+                "body": "<strong>客户：</strong>“我喜欢在我家后院举行派对。我如何才能获得最佳音效？”<br><br><strong>RSP：</strong>“Pill+ 正是您举行派对的理想之选。您可以让多台扬声器同步工作，在派对期间产生更震撼的音效。”",
+                "_graphic": {
+                    "src": "course/en/images/s2_3.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Technology"
+            },
+            {
+                "title": "<strong>Ashley</strong>",
+                "body": "<strong>客户：</strong>“我有一台小型无线扬声器，但我一直对其音质感到不满。您有没有外形小巧但音质卓越的扬声器？”<br><br><strong>RSP：</strong>“您一定会喜欢这款 Beats Pill+。它虽然外形小巧，但采用了<strong>‘有源分频网络’</strong>，这意味着低频率将被发送至低音扬声器，而高频率则被发送至高音扬声器，从而为您提供高清高保真度音效。”",
+                "_graphic": {
+                    "src": "course/en/images/s2_4.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Ashley"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-70",
+        "_parentId":"b-80",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"总结产品优点",
+        "displayTitle":"总结产品优点",
+        "body":"",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-75",
+        "_parentId":"b-85",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch4_1.jpg",
+            "medium": "course/en/images/ch4_1.jpg",
+            "small": "course/en/images/ch4_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-80",
+        "_parentId":"b-85",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"Beats Pill+ 具有优于其他无线扬声器的三大独特优势，即<strong>优良设计、卓越音质和先进技术。</strong><br><br>推荐 Beats Pill+ 时，记得首先要根据客户需求确定合适的 Beats 解决方案；<strong>了解客户需求，制定 Beats 解决方案</strong>，然后<strong>演示 Beats 卓越体验。</strong><br><br><strong>通过本单元，您将了解到：</strong><br><br><ul><li>是什么令 Beats Pill+ 成为功能强大的无线扬声器<li>是什么令这款扬声器成为您的客户的最佳解决方案<li>哪些为理想的客户<li>推荐对象</ul><br><br>现在您已具备 Beats Pill+ 的相关知识，是时候<strong>学以致用，将该产品推荐给您的客户了！</strong>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-85",
+        "_parentId":"b-90",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-15\" id=\"prev-button\">返回</a><a href=\"#/id/co-25\" id=\"next-button\">下一页</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },    
+    
+    {
+        "_id":"c-140",
+        "_parentId":"b-95",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "问题 1",
+        "displayTitle": "问题 1",
+        "body": "",
+        "instruction":"Beats Pill+ 具备“外接充电”功能，方便您的客户外接任何 USB 移动设备进行充电，但 Pill+ 采用了这种接口：",
+            "_items": [
+                {
+                    "text": "A：微型 USB",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "B: Apple Lightning",
+                    "_shouldBeSelected":true
+                },
+                {
+                    "text": "C: USB 3.0",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "D: Apple 30-Pin ",
+                    "_shouldBeSelected":false
+                }
+            ],
+        "_feedback":{
+            "correct": "回答正确！Beats Pill+ 采用了 Apple Lightning 接口。",
+            "_incorrect": {
+                "notFinal": "很抱歉，正确答案为“Apple Lightning”。",
+                "final": "很抱歉，正确答案为“Apple Lightning”。"
+            },
+            "_partlyCorrect": {
+                "notFinal": "很抱歉，正确答案为“Apple Lightning”。",
+                "final": "很抱歉，正确答案为“Apple Lightning”。"
+            }
+        },
+        "_buttons": {
+            "submit": "提交",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-145",
+        "_parentId":"b-100",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "问题 2",
+        "displayTitle": "问题 2",
+        "body": "",
+        "instruction":"Beats Pill+ 的电池续航时间为多少？",
+        "_items": [
+            {
+                    "text": "A: 12 小时",
+                    "_shouldBeSelected":true
+                },
+                {
+                    "text": "B: 6 小时",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "C: 8 小时",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "D: 10 小时",
+                    "_shouldBeSelected":false
+                }
+        ],
+        "_feedback":{
+            "correct": "回答正确！Beats Pill+ 配备了续航时间长达 12 小时的可充电电池。",
+            "_incorrect": {
+                "notFinal": "很抱歉，正确答案为“12 小时”。",
+                "final": "很抱歉，正确答案为“12 小时”。"
+            },
+            "_partlyCorrect": {
+                "notFinal": "很抱歉，正确答案为“12 小时”。",
+                "final": "很抱歉，正确答案为“12 小时”。"
+            }
+        },
+        "_buttons": {
+            "submit": "提交",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-150",
+        "_parentId":"b-105",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "问题 3",
+        "displayTitle": "问题 3",
+        "body": "",
+        "instruction":"Beats Pill+ 配备了续航时间长的可充电电池。完全充满电需要多长时间？",
+            "_items": [
+                {
+                    "text": "A: 3 小时",
+                    "_shouldBeSelected":true
+                },
+                {
+                    "text": "B: 1 小时",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "C: 6 小时",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "D: 12 小时",
+                    "_shouldBeSelected":false
+                }
+            ],
+            "_feedback":{
+                "correct": "回答正确！Beats Pill+ 仅需 3 小时即可完成充电，但续航时间长达半日！",
+                "_incorrect": {
+                    "notFinal": "很抱歉，正确答案为“3 小时”。",
+                    "final": "很抱歉，正确答案为“3 小时”。"
+                },
+                "_partlyCorrect": {
+                    "notFinal": "很抱歉，正确答案为“3 小时”。",
+                    "final": "很抱歉，正确答案为“3 小时”。"
+                }
+            },
+            "_buttons": {
+                "submit": "提交",
+                "reset": "",
+                "showCorrectAnswer": "",
+                "hideCorrectAnswer": ""
+            },
+            "_pageLevelProgress": {
+                "_isEnabled": true
+            }
+    },
+    {
+        "_id":"c-155",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "问题 4",
+        "displayTitle": "问题 4",
+        "body": "",
+        "instruction":"下列哪一项不是限定 Beats Pill+ 客户的步骤？",
+        "_items": [
+            {
+                "text": "A: 了解客户需求",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "B: 制定 Beats 解决方案",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "C: 演示 Beats 卓越体验",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D: 交付扬声器",
+                "_shouldBeSelected":true
+            }
+        ],
+        "_feedback":{
+            "correct": "回答正确！交付扬声器不是限定 Beats Pill+ 客户的步骤。",
+            "_incorrect": {
+                "notFinal": "很抱歉，正确答案为“交付扬声器”。",
+                "final": "很抱歉，正确答案为“交付扬声器”。"
+            },
+            "_partlyCorrect": {
+                "notFinal": "很抱歉，正确答案为“交付扬声器”。",
+                "final": "很抱歉，正确答案为“交付扬声器”。"
+            }
+        },
+        "_buttons": {
+            "submit": "提交",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },                            
+    {
+        "_id":"c-160",
+        "_parentId":"b-115",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "问题 5",
+        "displayTitle": "问题 5",
+        "body": "",
+        "instruction":"Beats Pill+ 的性能远超采用 Class ___ 蓝牙的典型无线扬声器，因而具有更广泛的覆盖范围。",
+        "_items": [
+            {
+                "text": "A: 1",
+                "_shouldBeSelected":true
+            },
+            {
+                "text": "B: 2",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "C: 3",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D: 4",
+                "_shouldBeSelected":false
+            }
+        ],
+        "_feedback":{
+            "correct": "回答正确！Class 1 蓝牙意味着您的客户可从极为广泛的范围控制扬声器。",
+            "_incorrect": {
+                "notFinal": "很抱歉，正确答案为“Class 1 蓝牙”。",
+                "final": "很抱歉，正确答案为“Class 1 蓝牙”。"
+            },
+            "_partlyCorrect": {
+                "notFinal": "很抱歉，正确答案为“Class 1 蓝牙”。",
+                "final": "很抱歉，正确答案为“Class 1 蓝牙”。"
+            }
+        },
+        "_buttons": {
+            "submit": "提交",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }, 
+    {
+        "_id":"c-165",
+        "_parentId":"b-120",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "问题 6",
+        "displayTitle": "问题 6",
+        "body": "",
+        "instruction":"下列哪一项是应用 Beats Pill+ App 的优势？",
+        "_items": [
+            {
+                "text": "A: 立体声——使两部 Pill+ 扬声器同步工作以播放左声道和右声道",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "B: 放大音效——通过两部 Pill+ 扬声器传输音频以获得更饱满的音色",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "C: 随心所欲地设计播放列表——添加朋友至 Pill+ 以轮流设计播放列表",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D: 以上全部",
+                "_shouldBeSelected":true
+            }
+        ],
+        "_feedback":{
+            "correct": "回答正确！全部选项均为应用 Beats Pill+ App 的优势。",
+            "_incorrect": {
+                "notFinal": "很抱歉，正确答案为“以上全部”。",
+                "final": "很抱歉，正确答案为“以上全部”。"
+            },
+            "_partlyCorrect": {
+                "notFinal": "很抱歉，正确答案为“以上全部”。",
+                "final": "很抱歉，正确答案为“以上全部”。"
+            }
+        },
+        "_buttons": {
+            "submit": "提交",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },                        
+    {
+        "_id":"c-170",
+        "_parentId":"b-125",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "问题 7",
+        "displayTitle": "问题 7",
+        "body": "",
+        "instruction":"通过蓝牙连接时，系统将提示您的客户下载 Beats Pill+ App，并让其更新固件，还可享受__________ 其设备的额外优势。",
+        "_items": [
+            {
+                "text": "A: 更新品牌",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "B: 重新命名",
+                "_shouldBeSelected":true
+            },
+            {
+                "text": "C: 重新调校",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D: 重复使用",
+                "_shouldBeSelected":false
+            }
+        ],
+        "_feedback":{
+            "correct": "回答正确！Beats Pill+ App 可让您的客户享受重新命名其设备的额外优势。",
+            "_incorrect": {
+                "notFinal": "很抱歉，正确答案为“重新命名”。",
+                "final": "很抱歉，正确答案为“重新命名”。"
+            },
+            "_partlyCorrect": {
+                "notFinal": "很抱歉，正确答案为“重新命名”。",
+                "final": "很抱歉，正确答案为“重新命名”。"
+            }
+        },
+        "_buttons": {
+            "submit": "提交",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }                             
+]

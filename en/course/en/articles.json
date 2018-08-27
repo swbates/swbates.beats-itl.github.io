@@ -1,0 +1,93 @@
+[
+    {
+        "_id":"a-05",
+        "_parentId":"co-05",
+        "_type":"article",
+        "_classes":"",
+        "title":"Page 1",
+        "displayTitle":"",
+        "body":""
+    },
+    {
+        "_id":"a-10",
+        "_parentId":"co-10",
+        "_type":"article",
+        "_classes":"",
+        "title":"Page 1",
+        "displayTitle":"",
+        "body":""
+    },
+    {
+        "_id":"a-15",
+        "_parentId":"co-15",
+        "_type":"article",
+        "_classes":"",
+        "title":"Page 1",
+        "displayTitle":"",
+        "body":""
+    },
+    {
+        "_id":"a-20",
+        "_parentId":"co-20",
+        "_type":"article",
+        "_classes":"",
+        "title":"Page 1",
+        "displayTitle":"",
+        "body":""
+    },
+    {
+        "_id":"a-25",
+        "_parentId":"co-25",
+        "_type":"article",
+        "_classes":"",
+        "title":"Assessment",
+        "displayTitle":"", 
+        "body":"",
+        "_trickle": {
+            "_isEnabled":true,
+            "button": "Continue to next question"
+        },
+        "_retake" :{
+            "_isEnabled":true,
+             "_passMessage" : {
+                 "title" : "Congratulations!",
+                 "message": "You have successfully passed this quiz! Nice work!"
+             },
+             "_failMessage" : {
+                 "title" : "You did not successfully pass this quiz. Review the material and try again.",
+                 "message": "You scored [SCORE] out of [MAXSCORE]. You did not successfully pass this quiz. Review the material and try again.<div class=\"assessment-retake-div\">Click <a href=\"#\" class=\"assessment-retake\">here</a> to re-take the quiz.</div><a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+             }
+            
+        },
+        "_assessment": {
+            "_isEnabled": true,
+            "_isPercentageBased" : true,
+            "_scoreToPass" : 80,
+            "_showQuestionFeedback":true,
+            "_allowRetake" : true,
+            "_completionMessage" : {
+                "title" : "You have finished the assessment",
+                "message": "You scored [SCORE] out of [MAXSCORE].  [FEEDBACK]"
+            },
+            "_bands": [
+                {
+                    "_score": 0,
+                    "feedback": "You did not successfully pass this quiz. .<div class=\"assessment-retake-div\"> Click <a href=\"#\" class=\"assessment-retake\">here</a> to review the material and re-take the quiz .</div><a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+                },
+                {
+                    "_score": 60,
+                    "feedback": "You did not successfully pass this quiz. Review the material and try again.<div class=\"assessment-retake-div\"> Click <a href=\"#\" class=\"assessment-retake\">here</a> to review the material and re-take the quiz </div><a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+                },
+                {
+                    "_score": 80,
+                    "feedback": "You have successfully passed this quiz! Nice work! <a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+                },
+                {
+                    "_score": 90,
+                    "feedback": "You have successfully passed this quiz! Nice work! <a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+                }
+            ]
+        }
+    }
+
+]

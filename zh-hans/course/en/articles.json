@@ -1,0 +1,93 @@
+[
+    {
+        "_id":"a-05",
+        "_parentId":"co-05",
+        "_type":"article",
+        "_classes":"",
+        "title":"Page 1",
+        "displayTitle":"",
+        "body":""
+    },
+    {
+        "_id":"a-10",
+        "_parentId":"co-10",
+        "_type":"article",
+        "_classes":"",
+        "title":"Page 1",
+        "displayTitle":"",
+        "body":""
+    },
+    {
+        "_id":"a-15",
+        "_parentId":"co-15",
+        "_type":"article",
+        "_classes":"",
+        "title":"Page 1",
+        "displayTitle":"",
+        "body":""
+    },
+    {
+        "_id":"a-20",
+        "_parentId":"co-20",
+        "_type":"article",
+        "_classes":"",
+        "title":"Page 1",
+        "displayTitle":"",
+        "body":""
+    },
+    {
+        "_id":"a-25",
+        "_parentId":"co-25",
+        "_type":"article",
+        "_classes":"",
+        "title":"Assessment",
+        "displayTitle":"", 
+        "body":"",
+        "_trickle": {
+            "_isEnabled":true,
+            "button": "继续下一个问题"
+        },
+        "_retake" :{
+            "_isEnabled":true,
+             "_passMessage" : {
+                 "title" : "Congratulations!",
+                 "message": "您成功通过了本测验！干得漂亮！"
+             },
+             "_failMessage" : {
+                 "title" : "你没有成功通过此测验。",
+                 "message": "您得分 [SCORE]/[MAXSCORE]。您未能通过本测验。<div class=\"assessment-retake-div\">单击 <a href=\"#\" class=\"assessment-retake\">此处</a> 查看资料并重新测验。</div><a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+             }
+            
+        },
+        "_assessment": {
+            "_isEnabled": true,
+            "_isPercentageBased" : true,
+            "_scoreToPass" : 80,
+            "_showQuestionFeedback":true,
+            "_allowRetake" : true,
+            "_completionMessage" : {
+                "title" : "您已完成评估",
+                "message": "您得分 [SCORE]/[MAXSCORE]。[FEEDBACK]"
+            },
+            "_bands": [
+                {
+                    "_score": 0,
+                    "feedback": "你没有成功通过此测验。<div class=\"assessment-retake-div\"> 单击 <a href=\"#\" class=\"assessment-retake\">此处查</a> 看资料并重新测验。</div><a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+                },
+                {
+                    "_score": 60,
+                    "feedback": "你没有成功通过此测验。<div class=\"assessment-retake-div\"> 单击 <a href=\"#\" class=\"assessment-retake\">此处查</a> 看资料并重新测验。</div><a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+                },
+                {
+                    "_score": 80,
+                    "feedback": "您成功通过了本测验！干得漂亮！<a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+                },
+                {
+                    "_score": 90,
+                    "feedback": "您成功通过了本测验！干得漂亮！<a class=\"tutor-done\" href=\"#\"><div class=\"tutor-icon-close icon icon-cross\"></div>"
+                }
+            ]
+        }
+    }
+
+]

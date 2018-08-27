@@ -1,0 +1,919 @@
+[
+    {
+        "_id":"c-05",
+        "_parentId":"b-05",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Introducing the Beats Pill+",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch1_1.jpg",
+            "medium": "course/en/images/ch1_1.jpg",
+            "small": "course/en/images/ch1_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-10",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"Beats Pill+ 是 Beats by Dr. Dre 無限喇叭的最新創意。Beats Pill+ 提供許多優勢，包含<strong>設計、可攜性和耐久度，</strong>以及超越傳統無線喇叭的<strong>音質和技術</strong>。",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-15",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>在這個單元中，您将瞭解：</strong><br><br><ul><li>Beats Pill+ 何以擁有如此超強性能<li>這款喇叭何以成為最適合客戶的解決方案<li>理想的客戶對象為何<li>如何向客戶推薦產品</ul><br><br>現在就讓我們開始瞭解為何所有人都在討論新款 Beats Pill+。",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-20",
+        "_parentId":"b-15",
+        "_type":"component",
+        "_classes": "",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Designed Around You",
+        "displayTitle": "專為您而設計",
+        "body": "",
+        "instruction":"Beats Pill+ 具備出色設計、音效和技術。",
+        "_items": [
+            {
+                "title": "<strong>設計</strong>",
+                "body": "Beats Pill+ 採用<strong>圓弧邊緣，</strong>因此<strong>收納或攜帶時非常簡單且安全，</strong>這代表您<strong><i>隨時隨地</i>都能聆聽音樂。</strong><br><br>Pill+ 的可攜式尺寸外型採用<strong>耐用材質</strong>包裝，因此可為客戶提供真實的<strong>「即拿即走」經驗。</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s1_1.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "設計"
+            },
+            {
+                "title": "<strong>音效</strong>",
+                "body": "談到音效時，Beats Pill+ 領先群倫。其具備<strong>集中裝載的雙低音用擴音器以呈現優質低音，並在每端配置雙高音用擴音器以呈現美妙高音。</strong>位於外側的高音用擴音器重點在於設計，可提供更出色的「離軸」聆聽體驗，這代表您不必待在喇叭正前方的位置，就能享受美妙的音樂。<br><br>千萬別被 Beats Pill+ <strong>的精巧外型給騙了，它能夠發出令人印象深刻的聲音，真正餘音繞樑。</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s1_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "音效"
+            },
+            {
+                "title": "<strong>技術</strong>",
+                "body": "Beats Pill+ 整合了<strong>領先業界的 1 類藍牙技術，</strong>這代表 Beats Pill+ 能比市面上的其他無線喇叭提供<strong>更大範圍的連線和播放功能。</strong><br><br>除了改良的藍牙以外，Beats Pill+ 也包含<strong>主動分音器，</strong>其<strong>會將音樂頻率傳送到能最妥善處理這些頻率的喇叭，進而產生優質音效。</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s1_3.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "技術"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-25",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-10\" id=\"next-button\">下一個</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-30",
+        "_parentId":"b-25",
+        "_classes": "",
+        "_type":"component",
+        "_component": "hotgraphic",
+        "_layout": "full",    
+        "title": "It’s all in the Details",
+        "displayTitle": "",
+        "body": "",
+        "instruction":"很容易就能瞭解 Beats Pill+ 何以擁有如此超強性能。以下是 Beats Pill+ 得以脫穎而出的眾多細節之一。",
+        "_graphic": {
+            "src": "course/en/images/hg1_main.jpg",
+            "alt": "",
+            "title": ""
+        },
+        "_items": [
+            {
+                "title": "<strong>電力長達 12 小時的可充電式電池</strong>",
+                "body": "有了可持續一整天的電力，Beats Pill+ 只需要充電 3 小時且配備電力長達 12 小時的可充電式電池，以及可監控電池剩餘電力的電量表。",
+                "_graphic": {
+                    "src": "course/en/images/hg1_1.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+            "strapline": "電力長達 12 小時的可充電式電池",
+            "_top": 49,
+            "_left": 26
+            },
+            {
+                "title": "<strong>外部充電</strong>",
+                "body": "隨時隨地聆聽音樂非常簡單，因為您可以利用 Beats Pill+ (配備 Apple Lightning 連線) 的額外電力為手機或外接音樂裝置充電。您的客戶可以輕鬆地從任何 USB 行動裝置進行外部充電。",
+                "_graphic": {
+                    "src": "course/en/images/hg1_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+            "strapline": "外部充電",
+            "_top": 43,
+            "_left": 90
+            },
+            {
+                "title": "<strong>主動分音器</strong>",
+                "body": "主動音訊分音器會將正確的頻率傳送到能最妥善處理這些頻率的喇叭。這代表低於 2kHz 的音樂頻率會傳送至低音用擴音器，而高於 2kHz 的音樂頻率則會透過高音用擴音器提供。",
+                "_graphic": {
+                    "src": "course/en/images/hg1_3.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+            "strapline": "主動分音器",
+            "_top": 66,
+            "_left": 48
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-35",
+        "_parentId":"b-30",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "停下來想一想！",
+        "displayTitle": "停下來想一想！",
+        "body": "Beats Pill+ 配備主動分音器。此功能如何協助為客戶提供高保真度體驗？",
+        "instruction":"",
+        "_items": [
+            {
+                "text": "A. 將正確的頻率傳送到能最妥善處理這些頻率的喇叭",
+                "_shouldBeSelected":true
+            },
+            {
+                "text": "B. 不會在喇叭範圍以外的地方播放頻率，以避免失真",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "C. 同步多個 Beats Pill+ 喇叭，以產生立體聲",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D. 透過 Apple Lightning 纜線讓您的裝置保持充電狀態",
+                "_shouldBeSelected":false
+            }
+        ],
+        "_feedback":{
+            "correct": "正確！將主動分音器視為聲音的流量警察。其會將頻率傳送到能最妥善處理這些頻率的喇叭，可讓 Beats Pill+ 發出精緻的高保真度聲音。",
+        "_incorrect": {
+            "notFinal": "很抱歉，正確答案是「將正確的頻率傳送到能最妥善處理這些頻率的喇叭」。",
+            "final": "很抱歉，正確答案是「將正確的頻率傳送到能最妥善處理這些頻率的喇叭」。"
+        },
+        "_partlyCorrect": {
+            "notFinal": "很抱歉，正確答案是「將正確的頻率傳送到能最妥善處理這些頻率的喇叭」。",
+            "final": "很抱歉，正確答案是「將正確的頻率傳送到能最妥善處理這些頻率的喇叭」。"
+        }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-40",
+        "_parentId":"b-35",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"There’s an App for that",
+        "displayTitle":"<br>有一個App為",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch2_1.jpg",
+            "medium": "course/en/images/ch2_1.jpg",
+            "small": "course/en/images/ch2_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-45",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>Beats Pill+</strong> <strong>應用程式</strong>可發揮許多優勢。透過藍牙連線時，系統會自動提示您的客戶下載應用程式。Beats Pill+ 應用程式會啟動可讓您透過全新社群方法分享播放清單、輕鬆更新韌體和重新命名 Pill+ 的功能，讓您更輕鬆地進行識別和同步。<br><br><strong>自訂播放清單</strong>：和朋友一起從兩個藍牙來源控制音樂，獲得更多社群體驗。",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-50",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>放大您的聲音</strong>：透過 2 個 Beats Pill+ 喇叭連線和串流可創造更飽滿、更充滿活力的聲音。<br><br><strong>以立體聲播放</strong>：輕鬆同步兩個 Beats Pill+ 喇叭，所以一個人可以播放左聲道，另一個人則能播放右聲道，如此可讓您的客戶享受更出色的立體聲音場，進而打造更令人沉浸在音樂中的體驗。",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-55",
+        "_parentId":"b-45",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-05\" id=\"prev-button\">上一個</a><a href=\"#/id/co-15\" id=\"next-button\">下一個</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+{
+        "_id":"c-60",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"In a Class all its Own",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch3_1.jpg",
+            "medium": "course/en/images/ch3_1.jpg",
+            "small": "course/en/images/ch3_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-65",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>1 類藍牙</strong>主要用於業界使用個案，而且相較於其他藍牙裝置 (限制為大約 33 英尺) 提供大幅延<strong>伸的範圍</strong>。<br><br><strong>鼓勵您的客戶在 Beats Pill+ 上測試藍牙的範圍，</strong>這可讓他們確實感受到廣泛改良的範圍。",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-70",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"Beats Pill+ 提供非凡的藍牙功能，但該功能並不專供音樂使用。Beats Pill+ 也能作為<strong>擴音手機</strong>而發揮雙重功能，進而提供<strong>改良的聲音效能。</strong><br><br>這款擴音手機功能意味著您的客戶<strong>能以更加清晰的聲音撥接電話。</strong>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-75",
+        "_parentId":"b-60",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Leading the Class",
+        "displayTitle":"引領趨勢",
+        "body":"此圖表可讓您輕鬆比較 Beats Pill 和 Beats Pill+。",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch3_2.jpg",
+            "medium": "course/en/images/ch3_2.jpg",
+            "small": "course/en/images/ch3_2.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-55",
+        "_parentId":"b-65",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-10\" id=\"prev-button\">上一個</a><a href=\"#/id/co-20\" id=\"next-button\">下一個</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-60",
+        "_parentId":"b-70",
+        "_type":"component",
+        "_component":"accordion",
+        "_classes":"",
+        "_layout":"full",
+        "title": "Delivering the Beats Experience ",
+        "displayTitle": "",
+        "body": "重要的是判定客戶的需求，以便決定適合他們的理想產品解決方案並提供完整的 Beats 體驗。",
+        "instruction":"",
+        "_items": [
+            {
+                "alt": "",
+                "title": "探索客戶需求",
+                "body": "探索聆聽者的需求是符合為客戶提供服務資格的第一步。重要的是<strong>不要進行任何假設，而要詢問開放式問題，</strong>以及<strong>詳細說明以釐清客戶需求。</strong>"
+            },
+            {
+                "alt": "",
+                "title": "定義 Beats 解決方案",
+                "body": "符合為客戶提供服務資格的第二步是定義 Beats 解決方案。為了達到這個目標，您必須<strong>將聆聽者的需求與適當的產品配對，</strong>以及<strong>詳細說明 Beats 領先競爭產品的優勢。</strong>"
+            },
+            {
+                "alt": "",
+                "title": "示範 Beats 體驗",
+                "body": "符合為客戶提供服務資格的第三步是示範 Beats 體驗。<strong>讓客戶自行播放符合其音樂品味的歌曲來體驗 Beats，</strong>然後<strong>確認聆聽者確實感受到 Beats 的優勢。</strong>"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-65",
+        "_parentId":"b-75",
+        "_type":"component",
+        "_classes": "",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Who’s it for?",
+        "displayTitle": "適合此款耳機的對象？",
+        "body": "",
+        "instruction":"重要的是能夠向客戶銷售 Beats Pill+。使用此頁面以瞭解哪些其中少數客戶會購買 Pill+，以及他們喜愛 Pill+ 的原因。",
+        "_items": [
+            {
+                "title": "<strong>John</strong>",
+                "body": "<strong>客戶：</strong>「我是大學新鮮人，想要找可以放在宿舍的無線喇叭。您會建議什麼產品呢？」<br><br><strong>回應：</strong>「您應該考慮購買Beats Pill+。<strong>它質地輕巧且方便攜帶，而且產生的聲音真正餘音繞樑！」</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s2_1.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "John"
+            },
+            {
+                "title": "<strong>Peter</strong>",
+                "body": "<strong>客戶：</strong>「我的工作需要常常出差，而且最近我的喇叭一直沒辦法使用。您能提供較長效電池壽命的產品嗎？」<br><br><strong>回應：</strong>請來看看 Beats Pill+。其配備 <strong>12 小時的可充電電池，</strong>甚至還能提供「外部充電」功能，所以您也可以為其他 USB 行動裝置充電。」",
+                "_graphic": {
+                    "src": "course/en/images/s2_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Peter"
+            },
+            {
+                "title": "<strong>Aaron</strong>",
+                "body": "<strong>客戶：</strong>「我很喜歡在後院舉行派對。我要如何在後院產生最棒的聲音？」<br><br><strong>回應：</strong>「Pill+ 將會是您舉行派對的理想首選。您可以一次同步多個喇叭，這代表您的派對到處都能充滿美妙的聲音。」",
+                "_graphic": {
+                    "src": "course/en/images/s2_3.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Technology"
+            },
+            {
+                "title": "<strong>Ashley</strong>",
+                "body": "<strong>客戶：</strong>「我有一個小型的無線喇叭，但它的音質常常讓我很失望。您是否能推建體積輕巧但音質良好的產品？」<br><br><strong>回應：</strong>「您絕對會愛上 Beats Pill+。雖然它體積輕巧，但配備<strong>「主動分音器」，</strong>這代表會將低頻率傳送至低音用擴音器，並將高頻率傳送至高音用擴音器，讓您感受精緻的高保真度音效。」",
+                "_graphic": {
+                    "src": "course/en/images/s2_4.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Ashley"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-70",
+        "_parentId":"b-80",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Wrapping It Up",
+        "displayTitle":"總結",
+        "body":"",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-75",
+        "_parentId":"b-85",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch4_1.jpg",
+            "medium": "course/en/images/ch4_1.jpg",
+            "small": "course/en/images/ch4_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-80",
+        "_parentId":"b-85",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"與其他無線喇叭相較之下，Beats Pill+ 配備三種獨特優勢：<strong>設計、音效及技術。</strong><br><br>向客戶推薦 Beats Pill+ 時，請謹記，所有行為都由識別合乎客戶需求的正確 Beats 解決方案開始<strong>；探索客戶需求，定義 Beats 解決方案，</strong>以及<strong>示範 Beats 體驗。</strong><br><br><ul><li><strong>在這個單元中，您能瞭解：</strong>Beats Pill+ 何以成為這樣強大的無線喇叭<li>這款喇叭何以成為最適合客戶的解決方案<li>理想的客戶對象為何<li>如何向客戶推薦產品</ul><br><br>現在您已經具備 Beats Pill+ 的知識，您就能發揮所長<strong>並向客戶推薦這項產品！</strong>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-85",
+        "_parentId":"b-90",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-15\" id=\"prev-button\">上一個</a><a href=\"#/id/co-25\" id=\"next-button\">下一個</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },    
+    
+    {
+        "_id":"c-140",
+        "_parentId":"b-95",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "問題 1",
+        "displayTitle": "問題 1",
+        "body": "",
+        "instruction":"Beats Pill+ 配備「外部充電」，可讓您的客戶為任何 USB 行動裝置進行外部充電，但 Pill+ 會使用此連線進行充電：",
+            "_items": [
+                {
+                    "text": "A: Micro-USB",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "B: Apple Lightning",
+                    "_shouldBeSelected":true
+                },
+                {
+                    "text": "C: USB 3.0",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "D: Apple 30 針",
+                    "_shouldBeSelected":false
+                }
+            ],
+        "_feedback":{
+            "correct": "答對了。Beats Pill+ 配備 Apple Lightning 連線。",
+            "_incorrect": {
+                "notFinal": "抱歉，正確的答案為「Apple Lightning」。",
+                "final": "抱歉，正確的答案為「Apple Lightning」。"
+            },
+            "_partlyCorrect": {
+                "notFinal": "抱歉，正確的答案為「Apple Lightning」。",
+                "final": "抱歉，正確的答案為「Apple Lightning」。"
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-145",
+        "_parentId":"b-100",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "問題 2",
+        "displayTitle": "問題 2",
+        "body": "",
+        "instruction":"Beats Pill+ 的電池壽命為何？",
+        "_items": [
+            {
+                    "text": "A: 12 小時",
+                    "_shouldBeSelected":true
+                },
+                {
+                    "text": "B: 6 小時",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "C: 8 小時",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "D: 10 小時",
+                    "_shouldBeSelected":false
+                }
+        ],
+        "_feedback":{
+            "correct": "正確！Beats Pill+ 配備 12 小時可充電電池。",
+            "_incorrect": {
+                "notFinal": "抱歉，正確的答案為「12 小時」。",
+                "final": "抱歉，正確的答案為「12 小時」。"
+            },
+            "_partlyCorrect": {
+                "notFinal": "抱歉，正確的答案為「12 小時」。",
+                "final": "抱歉，正確的答案為「12 小時」。"
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-150",
+        "_parentId":"b-105",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "問題 3",
+        "displayTitle": "問題 3",
+        "body": "",
+        "instruction":"Beats Pill+ 配備長效的可充電電池。需要多久才能完全充電？",
+            "_items": [
+                {
+                    "text": "A: 3 小時",
+                    "_shouldBeSelected":true
+                },
+                {
+                    "text": "B: 1 小時",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "C: 6 小時",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "D: 12 小時",
+                    "_shouldBeSelected":false
+                }
+            ],
+            "_feedback":{
+                "correct": "正確！Beats Pill+ 只要 3 小時就能完成充電，而且可以運作半天時間！",
+                "_incorrect": {
+                    "notFinal": "抱歉，正確的答案為「3 小時」。",
+                    "final": "抱歉，正確的答案為「3 小時」。"
+                },
+                "_partlyCorrect": {
+                    "notFinal": "抱歉，正確的答案為「3 小時」。",
+                    "final": "抱歉，正確的答案為「3 小時」。"
+                }
+            },
+            "_buttons": {
+                "submit": "",
+                "reset": "",
+                "showCorrectAnswer": "",
+                "hideCorrectAnswer": ""
+            },
+            "_pageLevelProgress": {
+                "_isEnabled": true
+            }
+    },
+    {
+        "_id":"c-155",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "問題 4",
+        "displayTitle": "問題 4",
+        "body": "",
+        "instruction":"下列哪項不是為 Beats Pill+ 客戶提供服務資格的其中一項？",
+        "_items": [
+            {
+                "text": "A: 探索客戶需求",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "B: 定義 Beats 解決方案",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "C: 示範 Beats 體驗",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D: 提供喇叭",
+                "_shouldBeSelected":true
+            }
+        ],
+        "_feedback":{
+            "correct": "答對了。提供喇叭不是為 Beats Pill+ 客戶提供服務資格的其中一項。",
+            "_incorrect": {
+                "notFinal": "抱歉，正確的答案為「提供喇叭」。",
+                "final": "抱歉，正確的答案為「提供喇叭」。"
+            },
+            "_partlyCorrect": {
+                "notFinal": "抱歉，正確的答案為「提供喇叭」。",
+                "final": "抱歉，正確的答案為「提供喇叭」。"
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },                            
+    {
+        "_id":"c-160",
+        "_parentId":"b-115",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "問題 5",
+        "displayTitle": "問題 5",
+        "body": "",
+        "instruction":"Beats Pill+ 具備 ___ 類藍牙功能而超越典型無線喇叭，因此可在較遠的範圍內使用。",
+        "_items": [
+            {
+                "text": "A: 1",
+                "_shouldBeSelected":true
+            },
+            {
+                "text": "B: 2",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "C: 3",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D: 4",
+                "_shouldBeSelected":false
+            }
+        ],
+        "_feedback":{
+            "correct": "正確！1 類藍牙代表您的客戶可以從很遠的距離控制其喇叭。",
+            "_incorrect": {
+                "notFinal": "抱歉，正確的答案為「1 類藍牙」。",
+                "final": "抱歉，正確的答案為「1 類藍牙」。"
+            },
+            "_partlyCorrect": {
+                "notFinal": "抱歉，正確的答案為「1 類藍牙」。",
+                "final": "抱歉，正確的答案為「1 類藍牙」。"
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }, 
+    {
+        "_id":"c-165",
+        "_parentId":"b-120",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "問題 6",
+        "displayTitle": "問題 6",
+        "body": "",
+        "instruction":"下列哪項是使用 Beats Pill+ 應用程式的優勢？",
+        "_items": [
+            {
+                "text": "A: 立體聲 – 同步兩個 Pill+ 喇叭以作為左聲道和右聲道",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "B: 擴大聲音– 透過兩個 Pill+ 喇叭串流音訊，以產生飽滿的聲音",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "C: DJ 播放清單 – 新增好友至 Pill+ 以輪流執行播放清單",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D: 以上全部",
+                "_shouldBeSelected":true
+            }
+        ],
+        "_feedback":{
+            "correct": "正確！以上全部都是使用 Beats Pill+ 應用程式的優勢。",
+            "_incorrect": {
+                "notFinal": "抱歉，正確的答案為「以上全部」。",
+                "final": "抱歉，正確的答案為「以上全部」。"
+            },
+            "_partlyCorrect": {
+                "notFinal": "抱歉，正確的答案為「以上全部」。",
+                "final": "抱歉，正確的答案為「以上全部」。"
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },                        
+    {
+        "_id":"c-170",
+        "_parentId":"b-125",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "問題 7",
+        "displayTitle": "問題 7",
+        "body": "",
+        "instruction":"透過藍牙連線時，系統會提示 Beats Pill+ 應用程式下載並讓您的客戶更新韌體，以及 __________ 他們的裝置作為新增的優勢。",
+        "_items": [
+            {
+                "text": "A: 品牌再造",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "B: 重新命名",
+                "_shouldBeSelected":true
+            },
+            {
+                "text": "C: 重新校正",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D: 重複使用",
+                "_shouldBeSelected":false
+            }
+        ],
+        "_feedback":{
+            "correct": "答對了。Beats Pill+ 應用程式可讓您的客戶重新命名他們的裝置作為新增的優勢。",
+            "_incorrect": {
+                "notFinal": "抱歉，正確的答案為「重新命名」。",
+                "final": "抱歉，正確的答案為「重新命名」。"
+            },
+            "_partlyCorrect": {
+                "notFinal": "抱歉，正確的答案為「重新命名」。",
+                "final": "抱歉，正確的答案為「重新命名」。"
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }                             
+]

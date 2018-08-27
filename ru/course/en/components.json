@@ -1,0 +1,919 @@
+[
+    {
+        "_id":"c-05",
+        "_parentId":"b-05",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Introducing the Beats Pill+",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch1_1.jpg",
+            "medium": "course/en/images/ch1_1.jpg",
+            "small": "course/en/images/ch1_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-10",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"Динамики Beats Pill+ представляют собой самые последние инновации в сфере беспроводных динамиков от компании Beats, основанной Dr. Dre. Динамики Beats Pill+ отличаются рядом преимуществ, среди которых <strong>дизайн, портативность </strong>и <strong>долгий срок службы, </strong>а <strong>качество звука</strong> и <strong>технологичность </strong>этих динамиков превышают аналогичные характеристики традиционных беспроводных динамиков.",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-15",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>В этом модуле вы узнаете следующее.</strong><br><br><ul><li>Что делает Beats Pill+ такой эффективной и мощной акустической системой.<li>Почему этот динамик станет лучшим решением для ваших клиентов.<li>Кто является идеальным клиентом.<li>Как рекомендовать им этот динамик.</ul><br>Итак, давайте сразу узнаем, почему все только и говорят о новых динамиках Beats Pill+.",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-20",
+        "_parentId":"b-15",
+        "_type":"component",
+        "_classes": "",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Designed Around You",
+        "displayTitle": "Дизайн с учетом ваших потребностей",
+        "body": "",
+        "instruction":"Динамики Beats Pill+ отличаются великолепным дизайном, качеством звука и уровнем технологии.",
+        "_items": [
+            {
+                "title": "<strong>Дизайн</strong>",
+                "body": "Динамик Beats Pill+ имеет<strong> скругленные края, </strong>что позволяет <strong>просто и легко упаковывать и переносить его, </strong>а значит <strong>музыка будет <i>всегда с вами</i>.</strong><br><br>Портативный корпус Pill+ выполнен из <strong>прочных материалов, </strong>чтобы клиенты могли всегда брать его с собой, <strong>куда бы они ни направлялись.</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s1_1.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Дизайн"
+            },
+            {
+                "title": "<strong>Звук</strong>",
+                "body": "Если дело касается звука, ваш выбор — динамик Beats Pill+. Он состоит из <strong>сдвоенных по центру сабвуферов для качественного воспроизведения низких частот и двух высокочастотных динамиков по краям. </strong>Высокочастотные динамики специально расположены на внешней стороне, что обеспечивает более качественное звучание «вне оси», то есть вам необязательно находиться непосредственно перед динамиком, чтобы наслаждаться отличным звучанием.<br><br>И пусть небольшие размеры не вводят вас в заблуждение: динамик Beats Pill+ <strong>способен воспроизводить потрясающий, наполняющий пространство звук.</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s1_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Звук"
+            },
+            {
+                "title": "<strong>Технология</strong>",
+                "body": "Динамик Beats Pill+ поддерживает <strong>ведущую в отрасли технологию Bluetooth класса 1, </strong>благодаря которой он способен <strong>поддерживать подключение и воспроизводить звук на большем удалении, чем любой другой беспроводной динамик на сегодняшнем рынке.</strong><br><br>Помимо улучшенного Bluetooth, динамик Beats Pill+ также поддерживает функцию <strong>активного разделительного фильтра, </strong>которая <strong>отправляет звуковые частоты на те динамики, которые лучше всего смогут их воспроизвести, обеспечивая самое качественное звучание.</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s1_3.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Технология"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-25",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-10\" id=\"next-button\">Далее</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-30",
+        "_parentId":"b-25",
+        "_classes": "",
+        "_type":"component",
+        "_component": "hotgraphic",
+        "_layout": "full",    
+        "title": "It’s all in the Details",
+        "displayTitle": "",
+        "body": "",
+        "instruction":"Становится понятным, почему Beats Pill+ является эффективной акустической системой. Вот лишь некоторые аспекты, которые выгодно выделяют его на фоне конкурентов.",
+        "_graphic": {
+            "src": "course/en/images/hg1_main.jpg",
+            "alt": "",
+            "title": ""
+        },
+        "_items": [
+            {
+                "title": "<strong>Аккумулятор на 12 часов работы</strong>",
+                "body": "Динамик Beats Pill+ может работать от аккумулятора целый день. Его аккумулятор заряжается всего за 3 часа, и его хватает на 12 часов. Специальная шкала показывает, сколько заряда осталось в аккумуляторе.",
+                "_graphic": {
+                    "src": "course/en/images/hg1_1.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+            "strapline": "<strong>Аккумулятор на 12 часов работы</strong>",
+            "_top": 49,
+            "_left": 26
+            },
+            {
+                "title": "<strong>Подзарядка других устройств</strong>",
+                "body": "Музыка может быть с вами постоянно: можно зарядить свой телефон или внешнее музыкальное устройство от динамика Beats Pill+, который оснащен подключением Apple Lightning. Ваши клиенты смогут без труда зарядить любое мобильное устройство с разъемом USB.",
+                "_graphic": {
+                    "src": "course/en/images/hg1_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+            "strapline": "<strong>Подзарядка других устройств</strong>",
+            "_top": 43,
+            "_left": 90
+            },
+            {
+                "title": "<strong>Активный разделительный фильтр</strong>",
+                "body": "Активные разделительные аудиофильтры отправляют звуковые частоты на те динамики, которые смогут воспроизвести их лучше всего. Это означает, что частоты ниже 2 кГц отправляются на сабвуферы, а ноты выше 2 кГц отправляются на высокочастотные динамики.",
+                "_graphic": {
+                    "src": "course/en/images/hg1_3.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+            "strapline": "<strong>Активный разделительный фильтр</strong>",
+            "_top": 66,
+            "_left": 48
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-35",
+        "_parentId":"b-30",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "Остановитесь и подумайте!",
+        "displayTitle": "Остановитесь и подумайте!",
+        "body": "Beats Pill+ поддерживает активный разделительный фильтр. Как эта функция обеспечивает высококачественный звук для наших клиентов?",
+        "instruction":"",
+        "_items": [
+            {
+                "text": "A. Передает музыкальные частоты на динамики, которые лучше всего с ними справятся.",
+                "_shouldBeSelected":true
+            },
+            {
+                "text": "Б. Не будет воспроизводить частоты вне диапазона динамика, что позволит предотвратить искажение.",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "В. Несколько динамиков Beats Pill+ можно синхронизировать для достижения стереозвучания.",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "Г. Ваши устройства всегда остаются подзаряженными благодаря кабелю Apple Lightning.",
+                "_shouldBeSelected":false
+            }
+        ],
+        "_feedback":{
+            "correct": "Правильно! Воспринимайте активный разделительный фильтр как регулировщика вашего звука. Он направляет частоты на тот динамик, который лучше всего сможет их воспроизвести, что делает звучание Beats Pill+ чистым и качественным.",
+        "_incorrect": {
+            "notFinal": "Извините, но правильный ответ здесь «Передает музыкальные частоты на динамики, которые лучше всего с ними справятся».",
+            "final": "Извините, но правильный ответ здесь «Передает музыкальные частоты на динамики, которые лучше всего с ними справятся»."
+        },
+        "_partlyCorrect": {
+            "notFinal": "Извините, но правильный ответ здесь «Передает музыкальные частоты на динамики, которые лучше всего с ними справятся».",
+            "final": "Извините, но правильный ответ здесь «Передает музыкальные частоты на динамики, которые лучше всего с ними справятся»."
+        }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-40",
+        "_parentId":"b-35",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"There’s an App for that",
+        "displayTitle":"<br>Там есть приложение для этого",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch2_1.jpg",
+            "medium": "course/en/images/ch2_1.jpg",
+            "small": "course/en/images/ch2_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-45",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"Приложение <strong>Beats Pill+ </strong>дает много новых преимуществ. Ваши клиенты автоматически получают запрос на загрузку приложения при подключении через Bluetooth. Приложение Beats Pill+ активирует функции, которые позволяют делиться списком воспроизведения в социальных сетях, без труда обновлять микропрограмму, а также переименовывать Pill+, чтобы устройство можно было легче определять и синхронизировать.<br><br><strong>Функция диджея</strong>. Пригласите друга и управляйте музыкой вместе с ним с двух источников Bluetooth, ведь это замечательный повод пообщаться.",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-50",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>Усиливайте звук. </strong>Подключение и потоковая передача аудио через два динамика Beats Pill+ формируют более полное, динамичное звучание.<br><br><strong>Пусть все будет в стерео. </strong>Два динамика Beats Pill+ можно легко синхронизировать, чтобы один играл левый канал, а другой — правый. Это позволит вашим клиентам наполнить помещение стереозвуком, усиливая эффект погружения.",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-55",
+        "_parentId":"b-45",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-05\" id=\"prev-button\">Назад</a><a href=\"#/id/co-15\" id=\"next-button\">Далее</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+{
+        "_id":"c-60",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"In a Class all its Own",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch3_1.jpg",
+            "medium": "course/en/images/ch3_1.jpg",
+            "small": "course/en/images/ch3_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-65",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>Bluetooth класса </strong>1 используется преимущественно в промышленности и значительно <strong>увеличивает дальность связи </strong>по сравнению с другими устройствами Bluetooth (радиус действия которых ограничивается приблизительно 10 метрами).<br><br><strong>Порекомендуйте вашим клиентам проверить радиус действия </strong>Bluetooth в устройстве Beats Pill+, что даст им реальное представление о значительно расширенном радиусе действия.",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-70",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"Динамик Beats Pill+ предоставляет феноменальную связь по Bluetooth, однако эта функция может пригодиться не только для воспроизведения музыки. Динамик Beats Pill+ также можно использовать как <strong>громкоговоритель. </strong>При этом обеспечивается <strong>улучшенное качество передачи голоса.</strong><br><br>Функция громкоговорителя обеспечит вашим клиентам <strong>высочайшее качество звука при разговорах по телефону.</strong>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-75",
+        "_parentId":"b-60",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Leading the Class",
+        "displayTitle":"Ведущая роль в своем классе",
+        "body":"На этом рисунке приведено сравнение Beats Pill и Beats Pill+.",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch3_2.jpg",
+            "medium": "course/en/images/ch3_2.jpg",
+            "small": "course/en/images/ch3_2.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-55",
+        "_parentId":"b-65",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-10\" id=\"prev-button\">Назад</a><a href=\"#/id/co-20\" id=\"next-button\">Далее</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-60",
+        "_parentId":"b-70",
+        "_type":"component",
+        "_component":"accordion",
+        "_classes":"",
+        "_layout":"full",
+        "title": "Delivering the Beats Experience ",
+        "displayTitle": "",
+        "body": "Важно определить потребности клиентов, прежде чем подобрать для них идеальное решение и предложить им соответствующую модель Beats.",
+        "instruction":"",
+        "_items": [
+            {
+                "alt": "",
+                "title": "Определите их потребности",
+                "body": "Первым шагом поиска клиента является определение потребностей слушателя. Важно не делать никаких <strong>предположений, необходимо задавать открытые вопросы  </strong>и перефразировать их для <strong>большей четкости.</strong>"
+            },
+            {
+                "alt": "",
+                "title": "Определите решение Beats",
+                "body": "Второй шаг в привлечении клиента — это определение решения Beats. Для этого вам необходимо <strong>сопоставить потребности слушателя с нужным продуктом, </strong>а также <strong>подробно рассказать о преимуществе Beats над конкурентными решениями.</strong>"
+            },
+            {
+                "alt": "",
+                "title": "Демонстрация использования Beats",
+                "body": "Третий и последний шаг в привлечении клиента — это демонстрация работы Beats. <strong>Пусть клиенты откроют для себя Beats, воспроизведя свою любимую композицию. Убедитесь, что они поняли все преимущества Beats.</strong>"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-65",
+        "_parentId":"b-75",
+        "_type":"component",
+        "_classes": "",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Who’s it for?",
+        "displayTitle": "Для кого предназначается это решение?",
+        "body": "",
+        "instruction":"Важно иметь возможность продавать Beats Pill+ вашим клиентам. Воспользуйтесь этой страницей, чтобы узнать, что представляют собой некоторые из таких клиентов и почему они любят Pill+.",
+        "_items": [
+            {
+                "title": "<strong>Джон</strong>",
+                "body": "<strong>Клиент: </strong>«Недавно я поступил в колледж, поэтому ищу беспроводной динамик для общежития. Что вы порекомендуете?»<br><br><strong>Розничный продавец: </strong>«Стоит рассмотреть Beats Pill+. <strong>Это легкий и портативный динамик, который заполнит звуком всю вашу комнату!»</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s2_1.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Джон"
+            },
+            {
+                "title": "<strong>Питер</strong>",
+                "body": "<strong>Клиент: </strong>«Я много езжу по командировкам, и мой динамик практически всегда полностью разряжен. У вас есть что-нибудь с более длительной работой от аккумулятора?»<br><br><strong>Розничный продавец: </strong>«Оцените Beats Pill+. У него <strong>12-часовой аккумулятор</strong>, и он даже поддерживает функцию подзарядки других устройств, чтобы вы могли подзаряжать другие мобильные устройства с разъемом USB».",
+                "_graphic": {
+                    "src": "course/en/images/s2_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Питер"
+            },
+            {
+                "title": "<strong>Aaron</strong>",
+                "body": "<strong>Клиент: </strong>«Я люблю приглашать гостей к себе на задний дворик. Как можно охватить звуком все пространство на заднем дворе?»<br><br><strong>Розничный продавец: </strong>«Pill+ идеально подойдет для ваших вечеринок. У вас будет возможность синхронизировать вместе несколько динамиков, так что ваше мероприятие будет просто залито звуком».",
+                "_graphic": {
+                    "src": "course/en/images/s2_3.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Aaron"
+            },
+            {
+                "title": "<strong>Эшли</strong>",
+                "body": "<strong>Клиент: </strong>«У меня есть маленький беспроводной динамик, и качество его звучания очень разочаровывает. У вас есть что-нибудь небольшое, но с хорошим звуком?»<br><br><strong>Розничный продавец: </strong>«Вам обязательно понравится Beats Pill+. Несмотря на его небольшие размеры, он поддерживает <strong>разделительный фильтр</strong>, то есть низкие частоты будут направляться на сабвуферы, а высокие — на высокочастотные динамики, что обеспечит звук высокого качества».",
+                "_graphic": {
+                    "src": "course/en/images/s2_4.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "Эшли"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-70",
+        "_parentId":"b-80",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Wrapping It Up",
+        "displayTitle":"Краткая сводка",
+        "body":"",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-75",
+        "_parentId":"b-85",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch4_1.jpg",
+            "medium": "course/en/images/ch4_1.jpg",
+            "small": "course/en/images/ch4_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-80",
+        "_parentId":"b-85",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"Динамик Beats Pill+ имеет три явных преимущества над другими беспроводными динамиками: <strong>дизайн, звук </strong>и <strong>технология.</strong><br><br>Рекомендуя Beats Pill+, помните, что все начинается с определения подходящего решения Beats для нужд клиентов; определите их потребности, определите решение Beats и продемонстрируйте успешное использование Beats.<br><br><strong>В этом модуле вы узнали следующее.</strong><ul><br><li>Что делает Beats Pill+ таким мощным беспроводным динамиком.<li>Почему этот динамик станет лучшим решением для ваших клиентов.<li>Кто является идеальным клиентом.<li>Как рекомендовать им этот динамик.</ul><br>Теперь у вас есть необходимые знания о Beats Pill+ и вы готовы <strong>рекомендовать этот динамик своим клиентам!</strong>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-85",
+        "_parentId":"b-90",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-15\" id=\"prev-button\">Назад</a><a href=\"#/id/co-25\" id=\"next-button\">Далее</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },    
+    
+    {
+        "_id":"c-140",
+        "_parentId":"b-95",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "Вопрос 1",
+        "displayTitle": "Вопрос 1",
+        "body": "",
+        "instruction":"Динамик Beats Pill+ оснащен функцией зарядного устройства, которая позволяет вашим клиентам подзаряжать любое мобильное устройство USB, однако сам динамик Pill+ подзаряжается через следующий разъем:",
+            "_items": [
+                {
+                    "text": "A. Micro-USB",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "Б. Apple Lightning",
+                    "_shouldBeSelected":true
+                },
+                {
+                    "text": "В. USB 3.0",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "Г. 30-контактный разъем Apple",
+                    "_shouldBeSelected":false
+                }
+            ],
+        "_feedback":{
+            "correct": "Все верно! Beats Pill+ поддерживает разъем Apple Lightning.",
+            "_incorrect": {
+                "notFinal": "Извините, но правильный ответ — «Apple Lightning».",
+                "final": "Извините, но правильный ответ — «Apple Lightning»."
+            },
+            "_partlyCorrect": {
+                "notFinal": "Извините, но правильный ответ — «Apple Lightning».",
+                "final": "Извините, но правильный ответ — «Apple Lightning»."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-145",
+        "_parentId":"b-100",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "Вопрос 2",
+        "displayTitle": "Вопрос 2",
+        "body": "",
+        "instruction":"Какова длительность работы Beats Pill+ от аккумулятора?",
+        "_items": [
+            {
+                    "text": "A. 12 часов",
+                    "_shouldBeSelected":true
+                },
+                {
+                    "text": "Б. 6 часов",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "B. 8 часов",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "Г. 10 часов",
+                    "_shouldBeSelected":false
+                }
+        ],
+        "_feedback":{
+            "correct": "Правильно! Beats Pill+ может работать от аккумулятора 12 часов.",
+            "_incorrect": {
+                "notFinal": "Извините, но правильный ответ — «12 часов».",
+                "final": "Извините, но правильный ответ — «12 часов»."
+            },
+            "_partlyCorrect": {
+                "notFinal": "Извините, но правильный ответ — «12 часов».",
+                "final": "Извините, но правильный ответ — «12 часов»."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-150",
+        "_parentId":"b-105",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "Вопрос 3",
+        "displayTitle": "Вопрос 3",
+        "body": "",
+        "instruction":"Динамик Beats Pill+ оснащен аккумулятором с увеличенным сроком работы. Сколько времени потребуется для его полной зарядки?",
+            "_items": [
+                {
+                    "text": "A. 3 часа",
+                    "_shouldBeSelected":true
+                },
+                {
+                    "text": "Б. 1 час",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "В. 6 часов",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "Г. 12 часов",
+                    "_shouldBeSelected":false
+                }
+            ],
+            "_feedback":{
+                "correct": "Правильно! Beats Pill+ подзаряжается всего за 3 часа, однако может работать полдня!",
+                "_incorrect": {
+                    "notFinal": "Извините, но правильный ответ — «3 часа».",
+                    "final": "Извините, но правильный ответ — «3 часа»."
+                },
+                "_partlyCorrect": {
+                    "notFinal": "Извините, но правильный ответ — «3 часа».",
+                    "final": "Извините, но правильный ответ — «3 часа»."
+                }
+            },
+            "_buttons": {
+                "submit": "",
+                "reset": "",
+                "showCorrectAnswer": "",
+                "hideCorrectAnswer": ""
+            },
+            "_pageLevelProgress": {
+                "_isEnabled": true
+            }
+    },
+    {
+        "_id":"c-155",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "Вопрос 4",
+        "displayTitle": "Вопрос 4",
+        "body": "",
+        "instruction":"Что из перечисленного ниже НЕ является частью привлечения клиентов Beats Pill+?",
+        "_items": [
+            {
+                "text": "A. Определение их потребности",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "Б. Определение решения Beats",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "В. Демонстрация успешного использования Beats",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "Г. Организация поставки динамика",
+                "_shouldBeSelected":true
+            }
+        ],
+        "_feedback":{
+            "correct": "Все верно! Поставка динамика не является частью привлечения клиента Beats Pill+.",
+            "_incorrect": {
+                "notFinal": "Извините, но правильный ответ — «Организация поставки динамика».",
+                "final": "Извините, но правильный ответ — «Организация поставки динамика»."
+            },
+            "_partlyCorrect": {
+                "notFinal": "Извините, но правильный ответ — «Организация поставки динамика».",
+                "final": "Извините, но правильный ответ — «Организация поставки динамика»."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },                            
+    {
+        "_id":"c-160",
+        "_parentId":"b-115",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "Вопрос 5",
+        "displayTitle": "Вопрос 5",
+        "body": "",
+        "instruction":"Динамик Beats Pill+ выходит за рамки обычных беспроводных динамиков благодаря использованию Bluetooth класса ___, что повышает его радиус действия.",
+        "_items": [
+            {
+                "text": "A. 1",
+                "_shouldBeSelected":true
+            },
+            {
+                "text": "Б. 2",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "B. 3",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "Г. 4",
+                "_shouldBeSelected":false
+            }
+        ],
+        "_feedback":{
+            "correct": "Правильно! Bluetooth класса 1 означает, что ваши клиенты могут управлять динамиком на феноменальном расстоянии.",
+            "_incorrect": {
+                "notFinal": "Извините, но правильный ответ — «Bluetooth, класс 1».",
+                "final": "Извините, но правильный ответ — «Bluetooth, класс 1»."
+            },
+            "_partlyCorrect": {
+                "notFinal": "Извините, но правильный ответ — «Bluetooth, класс 1».",
+                "final": "Извините, но правильный ответ — «Bluetooth, класс 1»."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }, 
+    {
+        "_id":"c-165",
+        "_parentId":"b-120",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "Вопрос 6",
+        "displayTitle": "Вопрос 6",
+        "body": "",
+        "instruction":"Что из перечисленного ниже является преимуществом использования приложения Beats Pill+?",
+        "_items": [
+            {
+                "text": "A. Стерео — синхронизируйте два динамика Pill+ вместе, чтобы получить левый и правый канал.",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "Б. Усиление звука — более полного звучания можно достичь путем потоковой передачи аудио через два динамика Pill+.",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "В. Функция диджея — добавьте друга, чтобы вместе с ним попеременно управлять списком воспроизведения.",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "Г. Все вышеперечисленное.",
+                "_shouldBeSelected":true
+            }
+        ],
+        "_feedback":{
+            "correct": "Правильно! Все эти факторы являются преимуществами использования приложения Beats Pill+.",
+            "_incorrect": {
+                "notFinal": "Извините, но правильный ответ — «Все вышеперечисленное».",
+                "final": "Извините, но правильный ответ — «Все вышеперечисленное»."
+            },
+            "_partlyCorrect": {
+                "notFinal": "Извините, но правильный ответ — «Все вышеперечисленное».",
+                "final": "Извините, но правильный ответ — «Все вышеперечисленное»."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },                        
+    {
+        "_id":"c-170",
+        "_parentId":"b-125",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "Вопрос 7",
+        "displayTitle": "Вопрос 7",
+        "body": "",
+        "instruction":"Запрос на загрузку приложения Beats Pill+ появляется при подключении по Bluetooth. При этом клиентам предлагается обновить микропрограмму, а также, в отличие от других устройств, выполнить __________ своего устройства.",
+        "_items": [
+            {
+                "text": "A. Ребрендинг",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "Б. Переименование",
+                "_shouldBeSelected":true
+            },
+            {
+                "text": "В. Повторную калибровку",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "Г. Повторное использование",
+                "_shouldBeSelected":false
+            }
+        ],
+        "_feedback":{
+            "correct": "Все верно! В качестве дополнительного преимущества приложение Beats Pill+ позволяет вашим клиентам переименовывать их устройства.",
+            "_incorrect": {
+                "notFinal": "Извините, но правильный ответ — «Переименование».",
+                "final": "Извините, но правильный ответ — «Переименование»."
+            },
+            "_partlyCorrect": {
+                "notFinal": "Извините, но правильный ответ — «Переименование».",
+                "final": "Извините, но правильный ответ — «Переименование»."
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }                             
+]

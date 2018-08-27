@@ -1,0 +1,919 @@
+[
+    {
+        "_id":"c-05",
+        "_parentId":"b-05",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Beats Pill+ について",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch1_1.jpg",
+            "medium": "course/en/images/ch1_1.jpg",
+            "small": "course/en/images/ch1_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-10",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"Beats Pill+ は、Beats by Dr. Dre ワイヤレススピーカーの最新製品です。Beats Pill+ は、<strong>デザイン、ポータブル性、耐久性、音質、テクノロジ</strong>ーにおいて、これまでのワイヤレススピーカーの常識を覆す製品メリットを提供しています。",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-15",
+        "_parentId":"b-10",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>このモジュールを通して次のことを学習します。</strong><br><br><ul><li>Beats Pill+ の優れたパフォーマンスの秘訣<li>お客様にとって最高のスピーカーである理由<li>ターゲット層<li>お客様への薦め方</ul><br>それでは、評判の新製品 Beats Pill+ について詳しく見ていきましょう。",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-20",
+        "_parentId":"b-15",
+        "_type":"component",
+        "_classes": "",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Designed Around You",
+        "displayTitle": "常に使い手を軸にして設計された製品",
+        "body": "",
+        "instruction":"Beats Pill+ は、優れたデザイン、サウンド、テクノロジーを提供します。",
+        "_items": [
+            {
+                "title": "<strong>デザイン</strong>",
+                "body": "Beats Pill+ は、<strong>丸みを帯びたフォルム</strong>で収納や持ち運びが<strong>簡単なため</strong>、いつでもどこでも<strong>音楽<i>が楽しめます</i>。</strong><br><br><strong>耐久性の高い素材</strong>を外装に使用し、究極の<strong>「持ち運び」感を提供します。</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s1_1.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "デザイン"
+            },
+            {
+                "title": "<strong>サウンド</strong>",
+                "body": "Beats Pill+ は、従来のサウンドをさらに進歩させたサウンドを提供します。<strong>中央に取り付けられたデュアルウーファーと、その両端に取り付けられたデュアルツイーターが高質の低音と高音を再生します。</strong>ツイーターをウーファーの両端に設置することで、スピーカーの真正面からだけでなく、さまざまな角度からも最高の音質が楽しめるように設計されています。<br><br>Beats Pill+ は、<strong>コンパクトなサイズからは想像もおよばない迫力のサウンドを部屋の隅々まで届けます。</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s1_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "サウンド"
+            },
+            {
+                "title": "<strong>テクノロジー</strong>",
+                "body": "Beats Pill+ は、<strong>業界をリードする Bluetooth Class</strong>1に対応しており、他社製のワイヤレススピーカーと比較しても<strong>より広い有効範囲で使用が可能です。</strong><br><br>Bluetooth の向上に加え、Beats Pill+ は<strong>アクティブ・クロスオーバー</strong>を採用して各2ウェイシステムの再生能力に合わせて音声信号を分割して送信することで、<strong>よりクオリティーの高いサウンドを生成します。</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s1_3.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "テクノロジー"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-25",
+        "_parentId":"b-20",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-10\" id=\"next-button\">次へ</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-30",
+        "_parentId":"b-25",
+        "_classes": "",
+        "_type":"component",
+        "_component": "hotgraphic",
+        "_layout": "full",    
+        "title": "It’s all in the Details",
+        "displayTitle": "",
+        "body": "",
+        "instruction":"Beats Pill+ がなぜ優れたパフォーマンスを実現できるのか、それは以下のディテールを見れば一目瞭然です。他社製品に差をつけるディテールは次の通りです。",
+        "_graphic": {
+            "src": "course/en/images/hg1_main.jpg",
+            "alt": "",
+            "title": ""
+        },
+        "_items": [
+            {
+                "title": "<strong>12時間連続使用可能なバッテリー</strong>",
+                "body": "Beats Pill+ の3時間急速充電と12時間連続使用できるバッテリーで、1日中音楽が楽しめます。バッテリー残量表示機能で残量の確認もできます。",
+                "_graphic": {
+                    "src": "course/en/images/hg1_1.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+            "strapline": "12時間連続使用可能なバッテリー",
+            "_top": 49,
+            "_left": 26
+            },
+            {
+                "title": "<strong>充電機能</strong>",
+                "body": "Beats Pill+ から携帯電話や外付けサウンドデバイスの充電が可能になり、常に音楽を再生し続けることができます。Apple Lightning コネクタに対応しており、USB モバイルデバイスをいつでも簡単に充電できます。",
+                "_graphic": {
+                    "src": "course/en/images/hg1_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+            "strapline": "充電機能",
+            "_top": 43,
+            "_left": 90
+            },
+            {
+                "title": "<strong>アクティブ・クロスオーバー</strong>",
+                "body": "アクティブ・クロスオーバーは、各2ウェイシステムの再生能力に合わせて音声信号を分割して送信します。例えば、2kHz 以下の音声信号はウーファーに、2kHz 以上の音声信号はツイーターに送信されます。",
+                "_graphic": {
+                    "src": "course/en/images/hg1_3.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+            "strapline": "アクティブ・クロスオーバー",
+            "_top": 66,
+            "_left": 48
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-35",
+        "_parentId":"b-30",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "それではここで問題です！",
+        "displayTitle": "それではここで問題です！",
+        "body": "Beats Pill+ のアクティブ・クロスオーバーシステムを搭載しています。このシステムはどのようにしてハイファイ再生を実現しますか？",
+        "instruction":"",
+        "_items": [
+            {
+                "text": "A. 音声信号を各2ウェイシステムの再生能力に合わせて送信する",
+                "_shouldBeSelected":true
+            },
+            {
+                "text": "B. 2ウェイシステムの周波数帯域外の音声信号を送信しないため歪みを防止する",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "C. 複数の Beats Pill+ スピーカーをステレオサウンド用に同期する",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D. Apple Lightning ケーブルを使用してデバイスを充電する",
+                "_shouldBeSelected":false
+            }
+        ],
+        "_feedback":{
+            "correct": "正解です！アクティブ・クロスオーバーは、音の交通整理を行う機能だと考えてみてください。スピーカーの再生能力に合わせた音声信号を振り分けて送信することで、Beats Pill+ のクオリティーの高いハイファイ再生を可能にしています。",
+        "_incorrect": {
+            "notFinal": "不正解です。正解は、「音声信号を各2ウェイシステムの再生能力に合わせて送信する」です。",
+            "final": "不正解です。正解は、「音声信号を各2ウェイシステムの再生能力に合わせて送信する」です。"
+        },
+        "_partlyCorrect": {
+            "notFinal": "不正解です。正解は、「音声信号を各2ウェイシステムの再生能力に合わせて送信する」です。",
+            "final": "不正解です。正解は、「音声信号を各2ウェイシステムの再生能力に合わせて送信する」です。"
+        }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+        "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-40",
+        "_parentId":"b-35",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"アプリは、そのためにあります",
+        "displayTitle":"<br>アプリは、そのためにあります",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch2_1.jpg",
+            "medium": "course/en/images/ch2_1.jpg",
+            "small": "course/en/images/ch2_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-45",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>Beats Pill+ アプリ</strong>の特長 お客様が Bluetooth に接続すると、アプリのダウンロードを推奨するプロンプトが自動的に送信されます。Beats Pill+ アプリを使用すると、プレイリストの共有や簡単なファームウェアのアップデート、Pill+ の名前を変更して検索と同期をより簡単に操作することができます。<br><br><strong>プレイリストでDJ体験</strong>お友達と一緒に2台の Bluetooth 対応デバイスから音楽をコントロールできます。",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-50",
+        "_parentId":"b-40",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>よりパワフルなサウンドを再生</strong>２台の Beats Pill+ を使用してオーディオをストリーミングすれば、より重厚でダイナミックなサウンドが楽しめます。<br><br><strong>ステレオとして使用</strong>２台の Beats Pill+ を同期させて、1台を左専用、もう1台を右専用にして再生すると、よりパワフルでインパクトのあるサウンドが味わえます。",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-55",
+        "_parentId":"b-45",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-05\" id=\"prev-button\">戻る</a><a href=\"#/id/co-15\" id=\"next-button\">次へ</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+{
+        "_id":"c-60",
+        "_parentId":"b-50",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"In a Class all its Own",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch3_1.jpg",
+            "medium": "course/en/images/ch3_1.jpg",
+            "small": "course/en/images/ch3_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-65",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"<strong>本来は産業用のクラスである Bluetooth Class 1</strong>は、通常の Bluetooth 対応デバイス（33フィート=約10メートル）に比べて劇的に<strong>通信距離</strong>が拡大されています。<br><br><strong>お客様に</strong>Beats Pill+ の Bluetooth を試してもらい、実際に拡大した通信距離を体験してもらってください。",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-70",
+        "_parentId":"b-55",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"Beats Pill+ は驚異的な Bluetooth 通信距離を実現します。そしてこれは音楽の再生だけに留まりません。Beats Pill+ は、<strong>スピーカーフォン</strong>としても利用でき、<strong>さらに充実した音声パフォーマンスを提供します。</strong><br><br>スピーカーフォンでは、<strong>クリアな音声で通話を楽しめます。</strong>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-75",
+        "_parentId":"b-60",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Leading the Class",
+        "displayTitle":"スピーカー部門のリーダー",
+        "body":"Beats Pill と Beats Pill+ の比較をまとめました。",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch3_2.jpg",
+            "medium": "course/en/images/ch3_2.jpg",
+            "small": "course/en/images/ch3_2.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-55",
+        "_parentId":"b-65",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-10\" id=\"prev-button\">戻る</a><a href=\"#/id/co-20\" id=\"next-button\">次へ</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-60",
+        "_parentId":"b-70",
+        "_type":"component",
+        "_component":"accordion",
+        "_classes":"",
+        "_layout":"full",
+        "title": "Delivering the Beats Experience ",
+        "displayTitle": "",
+        "body": "お客様のニーズを把握して最適な製品をお薦めし、完全な Beats 体験を提供しなければなりません。",
+        "instruction":"",
+        "_items": [
+            {
+                "alt": "",
+                "title": "ニーズの把握",
+                "body": "接客は、リスナーのニーズを把握することから始まります。<strong>推測しないこと、自由回答式の質問を投げかけること</strong>、そして<strong>お客様のニーズをより明確に理解するために自分の言葉で言い換えてみることが重要です。</strong>"
+            },
+            {
+                "alt": "",
+                "title": "Beats ソリューションの差別化",
+                "body": "次は、Beats ソリューションの差別化を実行します。このステップでは、<strong>お客様のニーズに適した製品を確定して、他社製品と比較した場合の Beats の利点を詳しく説明します。</strong>"
+            },
+            {
+                "alt": "",
+                "title": "Beats 体験の実演",
+                "body": "接客最後のステップでは、Beats 体験の実演を行います。<strong>お客様のお好きな楽曲を再生してもらい、Beats の特長を体験して理解してもらったことを確認して、Beats を肌で実感してもらいます。</strong>"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "c-65",
+        "_parentId":"b-75",
+        "_type":"component",
+        "_classes": "",
+        "_layout": "full",
+        "_component": "narrative",
+        "title": "Who’s it for?",
+        "displayTitle": "ターゲット層",
+        "body": "",
+        "instruction":"Beats Pill+ のお客様ターゲット層はしっかりと把握しておく必要があります。次の例を参考にして、お客様ターゲット層とこれらのお客様が Pill+ をご愛用される理由について理解してください。",
+        "_items": [
+            {
+                "title": "<strong>ジョンさん</strong>",
+                "body": "<strong>（お客様）：</strong>「大学に入ったばかりで、寮の部屋で使えるワイヤレススピーカーを探しているのですが、何かお薦めの製品はありますか？<br><br><strong>販売員：</strong>「Beats Pill+ はいかがですか？ <strong>軽量でポータブルな上に、部屋の隅々まで届く重厚なサウンドを再生するスピーカーです。」</strong>",
+                "_graphic": {
+                    "src": "course/en/images/s2_1.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "ジョンさん"
+            },
+            {
+                "title": "<strong>ピーターさん</strong>",
+                "body": "<strong>（お客様）：</strong>「仕事で出張が多いのですが、今使っているスピーカーはバッテリーが持たなくて困っています。バッテリー寿命の長いスピーカーはありませんか？」<br><br><strong>販売員：</strong>「Beats Pill+ はいかがですか？ <strong>12時間連続使用可能なバッテリー</strong>を搭載している上に、充電器としてもご利用いただけますので、USB モバイルデバイスの充電にも大変便利な製品です。」",
+                "_graphic": {
+                    "src": "course/en/images/s2_2.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "ピーターさん"
+            },
+            {
+                "title": "<strong>アーロン</strong>",
+                "body": "<strong>（お客様）：</strong>「自宅の庭でパーティーをよく開くのですけど、屋外でもクオリティーの高いサウンドを再生できるスピーカーはありませんか？」<br><br><strong>販売員：</strong>「Pill+ なら屋外のパーティーのご利用にも最適です。複数のスピーカーを同期することもできますので、パワフルなサウンドを再生できるスピーカーです。」",
+                "_graphic": {
+                    "src": "course/en/images/s2_3.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "アーロン"
+            },
+            {
+                "title": "<strong>アシュリー</strong>",
+                "body": "<strong>（お客様）：</strong>「小さなワイヤレススピーカーを使っていてサウンドのクオリティーが悪くて仕方ないのですが、小さくても質の高いサウンドを再生できるスピーカーはありませんか？」<br><br><strong>販売員：</strong>「Beats Pill+ をお薦めします。サイズは小さいですけど、<strong>アクティブ・クロスオーバ</strong>ーが搭載されていますので、低音はウーファーに、高音はツイーターに振り分けて質の高いハイファイ再生をお楽しみいただけます。」",
+                "_graphic": {
+                    "src": "course/en/images/s2_4.jpg",
+                    "alt": "",
+                    "title": ""
+                },
+                "strapline": "アシュリー"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-70",
+        "_parentId":"b-80",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"full",
+        "title":"Wrapping It Up",
+        "displayTitle":"まとめ",
+        "body":"",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-75",
+        "_parentId":"b-85",
+        "_type":"component",
+        "_component":"graphic",
+        "_classes":"",
+        "_layout":"left",
+        "title":"",
+        "displayTitle":"",
+        "body":"",
+        "instruction":"",
+        "_graphic": {
+            "alt": "",
+            "title": "",
+            "large": "course/en/images/ch4_1.jpg",
+            "medium": "course/en/images/ch4_1.jpg",
+            "small": "course/en/images/ch4_1.jpg"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-80",
+        "_parentId":"b-85",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"right",
+        "title":"",
+        "displayTitle":"",
+        "body":"Beats Pill+ を他社のワイヤレススピーカーと比較した際の3つの主な特長は、デザイン、サウンド、テクノロジーにあります。<br><br>Beats Pill+ をお客様に薦める際は、まず、<strong>お客様のニーズを理解してこれに合った Beats ソリューションの確定し、次に</strong>Beats ソリューションの差別化を図り、最後に<strong>Beats 体験を実演します。</strong><br><br><strong>このモジュールを通して次のことを学習しました。</strong><ul><br><li>Beats Pill+ が優れたワイヤレススピーカーであることの秘訣<li>お客様にとって最高のスピーカーである理由<li>ターゲット層<li>お客様への薦め方</ul><br>このモジュールで学習した Beats Pill+ に関する知識を、<strong>接客活動で是非活用してください！</strong>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-85",
+        "_parentId":"b-90",
+        "_type":"component",
+        "_component":"text",
+        "_classes":"",
+        "_layout":"full",
+        "title":"",
+        "displayTitle":"",
+        "body":"<div id=\"pagination-container\"><a href=\"#/id/co-15\" id=\"prev-button\">戻る</a><a href=\"#/id/co-25\" id=\"next-button\">次へ</a></div>",
+        "instruction":"",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },    
+    
+    {
+        "_id":"c-140",
+        "_parentId":"b-95",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "質問 1",
+        "displayTitle": "質問 1",
+        "body": "",
+        "instruction":"Beats Pill+ には、USB モバイルデバイスを充電する機能が備わっていますが、充電時の接続方法は次のうちどれですか？",
+            "_items": [
+                {
+                    "text": "A: Micro-USB",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "B: Apple Lightning",
+                    "_shouldBeSelected":true
+                },
+                {
+                    "text": "C: USB 3.0",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "D: Apple 30-Pin ",
+                    "_shouldBeSelected":false
+                }
+            ],
+        "_feedback":{
+            "correct": "正解です！Beats Pill+ は、Apple Lightning コネクタに対応しています。",
+            "_incorrect": {
+                "notFinal": "不正解です。正解は「Apple Lightning」です。",
+                "final": "不正解です。正解は「Apple Lightning」です。"
+            },
+            "_partlyCorrect": {
+                "notFinal": "不正解です。正解は「Apple Lightning」です。",
+                "final": "不正解です。正解は「Apple Lightning」です。"
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-145",
+        "_parentId":"b-100",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "質問 2",
+        "displayTitle": "質問 2",
+        "body": "",
+        "instruction":"Beats Pill+ のバッテリー寿命は次のうちどれですか？",
+        "_items": [
+            {
+                    "text": "A: 12時間",
+                    "_shouldBeSelected":true
+                },
+                {
+                    "text": "B: 6時間",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "C: 8時間",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "D: 10時間",
+                    "_shouldBeSelected":false
+                }
+        ],
+        "_feedback":{
+            "correct": "正解です！Beats Pill+ は、12時間連続使用できるバッテリーを装備しています。",
+            "_incorrect": {
+                "notFinal": "不正解です。正解は「12時間」です。",
+                "final": "不正解です。正解は「12時間」です。"
+            },
+            "_partlyCorrect": {
+                "notFinal": "不正解です。正解は「12時間」です。",
+                "final": "不正解です。正解は「12時間」です。"
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id":"c-150",
+        "_parentId":"b-105",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "質問 3",
+        "displayTitle": "質問 3",
+        "body": "",
+        "instruction":"Beats Pill+ は、再充電式のバッテリーを装備しています。フル充電にかかる時間は次のうちどれですか？",
+            "_items": [
+                {
+                    "text": "A: 3時間",
+                    "_shouldBeSelected":true
+                },
+                {
+                    "text": "B: 1時間",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "C: 6時間",
+                    "_shouldBeSelected":false
+                },
+                {
+                    "text": "D: 12時間",
+                    "_shouldBeSelected":false
+                }
+            ],
+            "_feedback":{
+                "correct": "正解です！Beats Pill+ は、3時間でフル充電します。フル充電の状態から使用して半日は連続使用が可能です！",
+                "_incorrect": {
+                    "notFinal": "不正解です。正解は「3時間」です。",
+                    "final": "不正解です。正解は「3時間」です。"
+                },
+                "_partlyCorrect": {
+                    "notFinal": "不正解です。正解は「3時間」です。",
+                    "final": "不正解です。正解は「3時間」です。"
+                }
+            },
+            "_buttons": {
+                "submit": "",
+                "reset": "",
+                "showCorrectAnswer": "",
+                "hideCorrectAnswer": ""
+            },
+            "_pageLevelProgress": {
+                "_isEnabled": true
+            }
+    },
+    {
+        "_id":"c-155",
+        "_parentId":"b-110",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "質問 4",
+        "displayTitle": "質問 4",
+        "body": "",
+        "instruction":"Beats Pill+ の接客で正しくないものは次のうちどれですか？",
+        "_items": [
+            {
+                "text": "A: ニーズの把握",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "B: Beats ソリューションの差別化",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "C: Beats 体験の実演",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D: スピーカーの配送",
+                "_shouldBeSelected":true
+            }
+        ],
+        "_feedback":{
+            "correct": "正解です！スピーカーの配送は、Beats Pill+ の販売接客ステップではありません。",
+            "_incorrect": {
+                "notFinal": "不正解です。正解は「スピーカーの配送」です。",
+                "final": "不正解です。正解は「スピーカーの配送」です。"
+            },
+            "_partlyCorrect": {
+                "notFinal": "不正解です。正解は「スピーカーの配送」です。",
+                "final": "不正解です。正解は「スピーカーの配送」です。"
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },                            
+    {
+        "_id":"c-160",
+        "_parentId":"b-115",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "質問 5",
+        "displayTitle": "質問 5",
+        "body": "",
+        "instruction":"Beats Pill+ は、Bluetooth Class _____ に対応しており、一般的なワイヤレススピーカーを上回る通信距離を提供しています。",
+        "_items": [
+            {
+                "text": "A: 1",
+                "_shouldBeSelected":true
+            },
+            {
+                "text": "B: 2",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "C: 3",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D: 4",
+                "_shouldBeSelected":false
+            }
+        ],
+        "_feedback":{
+            "correct": "正解です！Bluetooth Class 1により、これまでにない通信距離でスピーカーをコントロールすることができます。",
+            "_incorrect": {
+                "notFinal": "不正解です。正解は「Bluetooth Class 1」です。",
+                "final": "不正解です。正解は「Bluetooth Class 1」です。"
+            },
+            "_partlyCorrect": {
+                "notFinal": "不正解です。正解は「Bluetooth Class 1」です。",
+                "final": "不正解です。正解は「Bluetooth Class 1」です。"
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }, 
+    {
+        "_id":"c-165",
+        "_parentId":"b-120",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "質問 6",
+        "displayTitle": "質問 6",
+        "body": "",
+        "instruction":"Beats Pill+ アプリを使用する利点は次のうちどれですか？",
+        "_items": [
+            {
+                "text": "A: ステレオ - 2台の Pill+ スピーカーを同期して、1台を左専用、もう1台を右専用にして再生する",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "B: サウンドの増大 - 2台の Pill+ スピーカーをストリーミングしてサウンドを増大する",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "C: プレイリストで DJ 体験 - お友達と一緒に Pill+ でプレイリストを共有する",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D: 上記すべて",
+                "_shouldBeSelected":true
+            }
+        ],
+        "_feedback":{
+            "correct": "正解です！これらすべてが Beats Pill+ アプリを使用する利点です。",
+            "_incorrect": {
+                "notFinal": "不正解です。正解は「上記すべて」です。",
+                "final": "不正解です。正解は「上記すべて」です。"
+            },
+            "_partlyCorrect": {
+                "notFinal": "不正解です。正解は「上記すべて」です。",
+                "final": "不正解です。正解は「上記すべて」です。"
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    },                        
+    {
+        "_id":"c-170",
+        "_parentId":"b-125",
+        "_type":"component",
+        "_component":"mcq",
+        "_classes":"",
+        "_layout":"full",
+        "_attempts":1,
+        "_questionWeight":1,
+        "_isRandom":false,
+        "_selectable":1,
+        "title": "質問 7",
+        "displayTitle": "質問 7",
+        "body": "",
+        "instruction":"Beats Pill+ アプリは、Bluetooth に接続されると自動的にダウンロードを推奨するプロンプトを送信します。お客様は、ファームウェアのアップデート、デバイスを_______________することができます。",
+        "_items": [
+            {
+                "text": "A. 再ブランド化",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "B. 名前を変更",
+                "_shouldBeSelected":true
+            },
+            {
+                "text": "C. 再校正",
+                "_shouldBeSelected":false
+            },
+            {
+                "text": "D. 再利用",
+                "_shouldBeSelected":false
+            }
+        ],
+        "_feedback":{
+            "correct": "正解です！Beats Pill+ アプリを使用すると、お客様はデバイスの名前を変更することができます。",
+            "_incorrect": {
+                "notFinal": "不正解です。正解は「名前を変更」です。",
+                "final": "不正解です。正解は「名前を変更」です。"
+            },
+            "_partlyCorrect": {
+                "notFinal": "不正解です。正解は「名前を変更」です。",
+                "final": "不正解です。正解は「名前を変更」です。"
+            }
+        },
+        "_buttons": {
+            "submit": "",
+            "reset": "",
+            "showCorrectAnswer": "",
+            "hideCorrectAnswer": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }                             
+]
